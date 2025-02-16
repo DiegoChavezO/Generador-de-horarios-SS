@@ -1,0 +1,1405 @@
+﻿profesor,escuela,grupo,materia,academia,salon,laboratorio,lunes,martes,miércoles,jueves,viernes
+- Rangel Nahum Carlos Alexis (int),CIC,1AV2,Introducción a la Ciencia de Datos,CD        ,3011,NA,,18:30-20:00,18:30-20:00,,
+- Rangel Nahum Carlos Alexis (int),CIC,7BV1,Big Data,CD        ,4111,LIA1,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+- Rangel Nahum Carlos Alexis (int),CIC,7CV1,Data Mining,CD        ,1207,LP3,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Aguilar García Rafael,CIC,3CM3,Paradigmas de Programación,CC        ,1205,LP3,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Aguilar García Rafael,CIC,3CM5,Paradigmas de Programación,CC        ,1207,LP1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Aguilar García Rafael,CIC,8CM2,Trabajo Terminal II,TT        ,SA,NA,12:00-13:30,,12:00-13:30,,
+Aguilar Sánchez Fernando,ISC,2BM2,Fundamentos de Diseño Digital,SDIG      ,4009,LD2,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Aguilar Sánchez Fernando,ISC,3CM11,Introducción a los Microcontroladores,SDIG      ,1202,LD2,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Aguilar Sánchez Fernando,ISC,4CM4,Diseño de Sistemas Digitales,SDIG      ,1213,LD2,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Aguilar Velázquez Daniel (Int),CIC,3AM2,Programación para la Ciencia de Datos,CD        ,3111,LCD1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Agustín Domínguez Verónica,ISC,3AM2,Finanzas Empresariales,PETD      ,3111,LGP1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Agustín Domínguez Verónica,ISC,3CM2,Finanzas Empresariales,PETD      ,1204,LGP1,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Agustín Domínguez Verónica,ISC,5CM3,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1112,LGP1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Albortante Morato Cecilia (int),CIC,2BM1,Algoritmos y Estructuras de Datos,CC        ,4008,LP2,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Albortante Morato Cecilia (int),CIC,2BM2,Algoritmos y Estructuras de Datos,CC        ,4009,LP2,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Albortante Morato Cecilia (int),CIC,2CM2,Algoritmos y Estructuras de Datos,CC        ,2004,LP2,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Albortante Morato Cecilia (int),CIC,3CM1,Análisis y Diseño de Algoritmos,CC        ,1203,LP3,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Albortante Morato Cecilia (int),CIC,5CM4,Compiladores,CC        ,1113,LP1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Alcántara Méndez Alberto Jesús,CIC,1CM4,Fundamentos de Programación,CC        ,2205,LP1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Alcántara Méndez Alberto Jesús,CIC,4CV11,Trabajo Terminal I,TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Alcántara Méndez Alberto Jesús,CIC,5CM3,Compiladores,CC        ,1112,LP1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Alcántara Méndez Alberto Jesús,CIC,5CM4,Instrumentación y Control,FSE       ,1113,LE1,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Alcántara Méndez Alberto Jesús,CIC,7CM2,Virtual Instrumentation,FSE       ,2209,LE1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Alcaraz Torres Juan Jesús,ISC,5CM1,Redes de Computadoras,SDIST     ,1214,LR,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Alcaraz Torres Juan Jesús,ISC,5CV1,Redes de Computadoras,SDIST     ,1212,LR,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Alegría Benítez Gerardo (inv),CIC,6AM1,Analítica Avanzada de Datos,CD        ,3209,LCD1,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Alemán Arce Miguel Ángel,ISC,6CM5,Sistemas en Chip,SDIG      ,2109,LIA2,8:30-10:00,,08:30-10:00,8:30-10:00 L,
+Almazán Farfán Rocío,CIC,3CM4,Circuitos Eléctricos,FSE       ,1206,LE1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Almazán Farfán Rocío,CIC,3CM5,Circuitos Eléctricos,FSE       ,1207,LE1,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Almazán Farfán Rocío,CIC,7CM2,Trabajo Terminal I (Lab),TT        ,SA,NA,7:00-8:30,,,7:00-8:30,
+Aragón García Maribel,FII,1BM1,Comunicación Oral y Escrita,CS        ,3008,NA,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Aragón García Maribel,FII,1CM4,Comunicación Oral y Escrita,CS        ,2205,NA,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Aragón García Maribel,FII,4CM11,Trabajo Terminal I,TT        ,SA,NA,,10:30-12:00,,,10:30-12:00
+Araujo Díaz David,POSGR,2MCM1,Redes Inalámbricas,POSGR     ,2010,NA,,15:00-16:30,15:00-16:30,,15:00-16:30
+Araujo Díaz David,POSGR,2MCM1,Seguridad en Redes Inalámbricas (Lab),POSGR     ,2009,NA,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Araujo Díaz David,POSGR,5CV12,Trabajo Terminal II (Lab),TT        ,SA,NA,20:00-21:30,,20:00-21:30,,
+Araujo Díaz David,POSGR,7SV1,Tópicos Selectos I (ISISA),SDIG      ,2110,LS2,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Arcos Díaz Elsa Leticia,FB,2BM2,Cálculo Multivariable,CB        ,4009,LF,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Arcos Díaz Elsa Leticia,FB,2CM5,Cálculo Aplicado,CB        ,2007,LMA,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Arcos Díaz Elsa Leticia,FB,3AM1,Probabilidad,CB        ,3110,LMA,10:30-12:00,8:30-10:00,,10:30-12:00,12:00-13:30 L
+Arcos Díaz Elsa Leticia,FB,3BM1,Ecuaciones Diferenciales,CB        ,3108,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Arcos Díaz Elsa Leticia,FB,4BM1,Probabilidad y Estadística,CB        ,3112,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+Arzate Gordillo Jacqueline,ISC,3CV11,Teoría de Comunicaciones y Señales,SDIST     ,2210,LS4,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Arzate Gordillo Jacqueline,ISC,5CV1,Procesamiento Digital de Señales,SDIG      ,1212,LD1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Arzate Gordillo Jacqueline,ISC,5CV11,Trabajo Terminal II (Lab),TT        ,SA,NA,,18:30-20:00,18:30-20:00,,
+Arzate Gordillo Jacqueline,ISC,5CV3,Procesamiento Digital de Señales,SDIG      ,1214,LD1,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Arzate Gordillo Jacqueline,ISC,5CV4,Procesamiento Digital de Señales,SDIG      ,1111,NA,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Ávila Sánchez Cristhian Alejandro (int),CIC,1CV5,Cálculo,CB        ,2206,LMAT,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Ávila Sánchez Cristhian Alejandro (int),CIC,2BM1,Álgebra Lineal,CB        ,4008,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Ávila Sánchez Cristhian Alejandro (int),CIC,3AV1,Métodos Numéricos,CC        ,3110,LP1,,15:00-16:30,15:00-16:30 L,13:30-15:00,15:00-16:30
+Ávila Sánchez Cristhian Alejandro (int),CIC,3CM5,Análisis y Diseño de Algoritmos,CC        ,1207,LP3,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Ávila Sánchez Cristhian Alejandro (int),CIC,4CV1,Matemáticas Avanzadas para la Ingeniería,CB        ,1207,NA,16:30-18:00,,16:30-18:00,16:30-18:00,
+Ávila Sánchez Cristhian Alejandro (int),CIC,4CV3,Teoría de la Computación,CC        ,1210,LP2,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Barrón Vera Josue Emanuel,ISC,2BV2,Fundamentos de Diseño Digital,SDIG      ,4009,LD2,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Barrón Vera Josue Emanuel,ISC,3CV5,Fundamentos de Diseño Digital,SDIG      ,1205,LD1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Bautista Rosales Sandra Ivette,ISC,4AM1,Desarrollo de Aplicaciones Web,ISW       ,4108,LS4,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Bautista Rosales Sandra Ivette,ISC,4CV11,Administración de Servicios en Red,SDIST     ,2211,LR,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Bautista Rosales Sandra Ivette,ISC,6CM4,Aplicaciones para Comunicaciones en Red,SDIST     ,1013,LR,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Bautista Rosales Sandra Ivette,ISC,7CM3,Administración de Servicios en Red,SDIST     ,2210,LR,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Bautista Rosales Sandra Ivette (int),ISC,4CM3,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1212,LS2,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Blanco Almazan Ivan Eduardo,ISC,3AV1,Bases de Datos,ISW       ,3110,LS3,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Blanco Almazan Ivan Eduardo,ISC,3BV1,Bases de Datos,ISW       ,3108,LS2,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Blanco Almazan Ivan Eduardo,ISC,4AV1,Desarrollo de Aplicaciones Web,ISW       ,3112,LS4,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Blanco Almazan Ivan Eduardo,ISC,5CV1,Análisis y Diseño de Sistemas,ISW       ,1212,LS1,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Blanco Almazan Ivan Eduardo,ISC,5CV2,Análisis y Diseño de Sistemas,ISW       ,1213,LS1,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Blanco Almazan Ivan Eduardo,ISC,5CV5,Análisis y Diseño de Sistemas,ISW       ,1112,LS1,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Buitrón Damaso Israel,FB,1CV1,Matemáticas Discretas,CB        ,2202,LMD,20:00-21:30,18:30-20:00,18:30-20:00 L,20:00-21:30,
+Buitrón Damaso Israel,FB,1CV5,Matemáticas Discretas,CB        ,2206,LMD,18:30-20:00,20:00-21:30,20:00-21:30,18:30-20:00 L,
+Cabrera Chávez Gloría Lourdes,ISC,1BV1,Fundamentos Económicos,PETD      ,3008,LGP1,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Cabrera Chávez Gloría Lourdes,ISC,1BV2,Fundamentos Económicos,PETD      ,3009,LGP1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Cabrera Chávez Gloría Lourdes,ISC,5CV2,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1213,LS3,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Camacho Vázquez Vanessa Alejandra (Int),CIC,4CV4,Teoría de la Computación,CC        ,1211,LP2,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Camacho Vázquez Vanessa Alejandra (Int),CIC,5BM1,Aprendizaje de Máquina,IA        ,4110,LIA2,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Camacho Vázquez Vanessa Alejandra (Int),CIC,6BM1,Redes Neuronales y Aprendizaje Profundo,IA        ,4113,LIA1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Camacho Vázquez Vanessa Alejandra (Int),CIC,6CV4,Inteligencia Artificial,IA        ,1011,LIA1,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Cancino Calderón Sergio,CIC,3CM6,Circuitos Eléctricos,FSE       ,1209,LE1,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Cancino Calderón Sergio,CIC,3CV5,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,13:30-15:00,,,,
+Cancino Calderón Sergio,CIC,5CM1,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,10:30-12:00,,
+Cancino Calderón Sergio,CIC,5CM2,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,12:00-13:30,,
+Cancino Calderón Sergio,CIC,5CM5,Instrumentación y Control,FSE       ,1206,LE1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Cancino Mosqueda Odette Berenice,ISC,1BM1,Fundamentos Económicos,PETD      ,3008,LGP1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Cancino Mosqueda Odette Berenice,ISC,1BM2,Fundamentos Económicos,PETD      ,3009,LGP1,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Cancino Mosqueda Odette Berenice,ISC,2CM1,Fundamentos Económicos,PETD      ,2003,LGP1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Canseco Gutierrez Yemi Aurora,FII,4AM1,Liderazgo Personal,CS        ,4108,NA,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Cañedo Suárez Leticia,FB,2CM5,Álgebra Lineal,CB        ,2007,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Cañedo Suárez Leticia,FB,4CM2,Probabilidad y Estadística,CB        ,1211,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Carballo Jiménez Juan Manuel,FB,2AM1,Cálculo Multivariable,CB        ,4010,LF,,10:30-12:00,10:30-12:00 L,12:00-13:30,10:30-12:00
+Carballo Jiménez Juan Manuel,FB,4CM5,Matemáticas Avanzadas para la Ingeniería,CB        ,2207,NA,,12:00-13:30,13:30-15:00,,12:00-13:30
+Carmona García Enrique Alfonso (int),CIC,2AV1,Algoritmos y Estructuras de Datos,CC        ,4010,LP3,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Carmona García Enrique Alfonso (int),CIC,2BV2,Algoritmos y Estructuras de Datos,CC        ,4009,LP2,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Carmona García Enrique Alfonso (int),CIC,6CM2,Machine Learning,IA        ,1011,LIA1,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Carmona García Enrique Alfonso (int),CIC,7BM1,Reconocimiento de Voz,IA        ,3210,LP2,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Carmona García Enrique Alfonso (int),CIC,7BV1,Reconocimiento de Voz,IA        ,4111,LIA1,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Carranza Castillo Oscar,CIC,4CM1,Electrónica Analógica,FSE       ,1210,LE1,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Carranza Castillo Oscar,CIC,4CM11,Trabajo Terminal I (Lab),TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Carranza Castillo Oscar,CIC,4CM4,Electrónica Analógica,FSE       ,1213,LE1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Carreto Arellano Chadwick,POSGR,4CM12,Desarrollo de Sistemas Distribuidos,SDIST     ,2213,LS3,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Carreto Arellano Chadwick,POSGR,6BM2,Ingeniería de Software para Sistemas Inteligentes,ISW       ,3208,LS2,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Castillo Cabrera Gelacio,ISC,2MCM1,Fundamentos de Comunicaciones Móviles,POSGR     ,2111,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Castillo Cabrera Gelacio,ISC,5CM2,Arquitectura de Computadoras,SDIG      ,1111,LD1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Castillo Cabrera Gelacio,ISC,5CM2,Procesamiento Digital de Señales,SDIG      ,1111,LD1,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Castillo Marrufo Juan Antonio,ISC,2CM2,Fundamentos Económicos,PETD      ,2004,LGP2,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Castillo Marrufo Juan Antonio,ISC,2CM3,Fundamentos Económicos,PETD      ,2005,LGP1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Catalán Salgado Edgar Armando,ISC,3BV2,Bases de Datos,ISW       ,3109,LS1,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Catalán Salgado Edgar Armando,ISC,4BV1,Fundamentos de Inteligencia Artificial,IA        ,3111,LIA1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Ceballos Sebastián Ricardo,FB,2CM1,Mecánica y Electromagnetismo,CB        ,2003,LF,12:00-13:30,12:00-13:30,12:00-13:30,12:00-13:30 L,
+Ceballos Sebastián Ricardo,FB,2CM5,Mecánica y Electromagnetismo,CB        ,2007,LF,10:30-12:00 L,8:30-10:00,,10:30-12:00,12:00-13:30
+Celis Domínguez Adriana Berenice,FII,1CM1,Comunicación Oral y Escrita,CS        ,2202,NA,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Celis Domínguez Adriana Berenice,FII,2CM3,Ingeniería Ética y Sociedad,CS        ,2005,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+Celis Domínguez Adriana Berenice,FII,5AM1,Metodología de la Investigación y Divulgación Científica,CS        ,4112,NA,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Celis Domínguez Adriana Berenice,FII,8AM1,Trabajo Terminal II,TT        ,SA,NA,10:30-12:00,8:30-10:00,,,
+Centeno Arrazola Maria Soledad,FII,1AM1,Comunicación Oral y Escrita,CS        ,3010,NA,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Centeno Arrazola Maria Soledad,FII,1BM2,Comunicación Oral y Escrita,CS        ,3009,NA,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Centeno Arrazola Maria Soledad,FII,7AM1,Trabajo Terminal I (Lab),TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Centeno Arrazola Maria Soledad,FII,8CM3,Liderazgo Personal,CS        ,2213,NA,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Centeno Arrazola Maria Soledad (int),FII,3BM1,Liderazgo Personal,CS        ,3108,NA,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Centeno Arrazola Maria Soledad (int),FII,3BV2,Liderazgo Personal,CS        ,3109,NA,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Cervantes De Anda Ismael,CIC,5CV2,Instrumentación y Control,FSE       ,1213,LE1,20:00-21:30,,20:00-21:30,20:00-21:30 L,
+Cervantes De Anda Ismael,CIC,5CV5,Instrumentación y Control,FSE       ,1112,LE1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Cervantes Espinosa Luis Moctezuma,FB,3CM1,Ecuaciones Diferenciales,CB        ,1203,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Cervantes Espinosa Luis Moctezuma,FB,4CM3,Matemáticas Avanzadas para la Ingeniería,CB        ,1212,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Cervantes Espinosa Luis Moctezuma,FB,7CM1,Trabajo Terminal I (Lab),TT        ,SA,NA,13:30-15:00,13:30-15:00,,,
+Chavarría Báez Lorena,ISC,3AM2,Bases de Datos,ISW       ,3111,LS3,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Chavarría Báez Lorena,ISC,3CM4,Bases de Datos,ISW       ,1206,LS1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Chavarría Báez Lorena,ISC,3MCM1,Ingeniería Software para Cómputo Móvil(Maestría),POSGR     ,2111,NA,8:30-10:00,,8:30-10:00,8:30-10:00,
+Cifuentes Álvarez Alejandro Sigfrido,ISC,7CM3,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,2210,LS3,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Cifuentes Álvarez Alejandro Sigfrido,ISC,7CM4,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,2211,LS3,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Cordero López Martha Rosa,ISC,6CM1,Software Quality Assurance and Desing Patterns,ISW       ,1007,LGP2,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Cordero López Martha Rosa,ISC,6CM2,Ingeniería de Software,ISW       ,1011,LS1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Cordero López Martha Rosa,ISC,7BV1,Trabajo Terminal I,TT        ,SA,NA,13:30-15:00,13:30-15:00,,,
+Coronilla Contreras Ukranio,ISC,4CM11,Desarrollo de Sistemas Distribuidos,SDIST     ,2110,LS4,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Coronilla Contreras Ukranio,ISC,7CM2,Sistemas Distribuidos,SDIST     ,2209,NA,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Coronilla Contreras Ukranio,ISC,7CM3,Sistemas Distribuidos,SDIST     ,2210,LS3,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Correa Coyac David,FB,1CM5,Matemáticas Discretas,CB        ,2206,LMD,10:30-12:00 L,8:30-10:00,,10:30-12:00,12:00-13:30
+Correa Coyac David,FB,2AM2,Álgebra Lineal,CB        ,4011,LMD,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Correa Coyac David,FB,2BM2,Álgebra Lineal,CB        ,4009,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Correa Coyac David,FB,3BM2,Ecuaciones Diferenciales,CB        ,3109,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Cortés Galicia Jorge,ISC,1MCM1,Seminario I,POSGR     ,2009,NA,,12:00-13:30,13:30-15:00,,
+Cortés Galicia Jorge,ISC,4CM1,Sistemas Operativos,SDIST     ,1210,LS1,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Cortés Galicia Jorge,ISC,4CM4,Sistemas Operativos,SDIST     ,1213,LS1,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Cortés Galicia Jorge,ISC,8CM2,Trabajo Terminal II (Lab),TT        ,SA,NA,,7:00-8:30,7:00-8:30,,
+Cortez Duarte Nidia Asunción,ISC,5CM4,Redes de Computadoras,SDIST     ,1014,LR,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Cortez Duarte Nidia Asunción,ISC,6CM2,Introduction to Cryptography,CC        ,1011,LP1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Cortez Duarte Nidia Asunción,ISC,6CM5,Introduction to Cryptography,CC        ,2109,LIA2,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Cortez Duarte Nidia Asunción,ISC,7CM3,Trabajo Terminal I,TT        ,SA,NA,7:00-8:30,,,7:00-8:30,
+Cruz Carlin Efren (inv),ISC,1CV3,Fundamentos de Programación,CC        ,2204,LP1,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Cruz Carlin Efren (inv),ISC,7CV2,Virtual and Augmented Reality,CC        ,1013,LP1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Cruz García Daniel,CIC,2CV1,Algoritmos y Estructuras de Datos,CC        ,2002,LP2,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Cruz García Daniel,CIC,2CV2,Algoritmos y Estructuras de Datos,CC        ,2003,LP2,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Cruz García Daniel,CIC,5CV12,Trabajo Terminal II (Lab),TT        ,SA,NA,13:30-15:00,13:30-15:00,,,
+Cruz Lázaro Apolinar Francisco,FII,2CV2,Ingeniería Ética y Sociedad,CS        ,2003,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+Cruz Lázaro Apolinar Francisco,FII,4CV11,Liderazgo y Desarrollo Profesional,CS        ,2211,NA,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Cruz Meza María Elena,ISC,4BM1,Procesamiento Digital de Imágenes,IA        ,3112,LIA2,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Cruz Meza María Elena,ISC,4BM2,Procesamiento Digital de Imágenes,IA        ,3113,LIA1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Cruz Meza María Elena,ISC,7CM2,Image Analysis,IA        ,1114,LIA2,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Cruz Rojas Jorge Alberto,FB,2CV3,Cálculo Aplicado,CB        ,2004,LMA,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Cruz Rojas Jorge Alberto,FB,2CV4,Cálculo Aplicado,CB        ,2005,LMA,20:00-21:30,,20:00-21:30,20:00-21:30 L,
+Cruz Rojas Jorge Alberto,FB,3AM2,Probabilidad,CB        ,3111,NA,12:00-13:30,12:00-13:30,12:00-13:30 L,12:00-13:30,
+Cruz Rojas Jorge Alberto,FB,3CM2,Ecuaciones Diferenciales,CB        ,1204,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Cruz Rojas Jorge Alberto,FB,4AM1,Estadística,CB        ,4108,LMA,10:30-12:00,8:30-10:00,13:30-15:00,10:30-12:00 L,
+Cruz Rojas Jorge Alberto,FB,4CV4,Probabilidad y Estadística,CB        ,1211,NA,13:30-15:00,13:30-15:00,,13:30-15:00,
+Cruz Torres Benjamín,ISC,4AM1,Cómputo de Alto Desempeño,SDIST     ,4108,LS2,12:00-13:30 L,12:00-13:30 L,12:00-13:30,12:00-13:30,
+Cruz Torres Benjamín,ISC,4AV1,Cómputo de Alto Desempeño,SDIST     ,3112,LS2,16:30-18:00,,16:30-18:00 L,16:30-18:00 L,13:30-15:00
+Cruz Torres Benjamín,ISC,8CV1,Trabajo Terminal II,TT        ,SA,NA,15:00-16:30,,,15:00-16:30,
+Damián Almazar Daniel Isaac,FII,1CM5,Comunicación Oral y Escrita,CS        ,2206,NA,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Dávalos López José Carlos,CIC,3BM2,Paradigmas de Programación,CC        ,3109,LP3,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Dávalos López José Carlos,CIC,3CM1,Paradigmas de Programación,CC        ,1203,LP3,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Dávalos López José Carlos,CIC,3CM4,Paradigmas de Programación,CC        ,1206,LIA1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Dávalos López José Carlos,CIC,7CV2,Trabajo Terminal I,TT        ,SA,NA,13:30-15:00,13:30-15:00,,,
+De la O Torres Saúl,CIC,1CV2,Fundamentos de Programación,CC        ,2203,LP1,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+De la O Torres Saúl,CIC,3CV2,Paradigmas de Programación,CC        ,1202,LP3,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+De la O Torres Saúl,CIC,3CV4,Paradigmas de Programación,CC        ,1204,LP3,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+De la O Torres Saúl,CIC,4BV1,Procesamiento Digital de Imágenes,IA        ,3111,LIA1,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+De Luna Caballero Roberto,CIC,1AM2,Fundamentos de Programación,CC        ,3011,LP1,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+De Luna Caballero Roberto,CIC,1CM2,Fundamentos de Programación,CC        ,2203,LP1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+De Luna Caballero Roberto,CIC,5CM12,Trabajo Terminal II (Lab),TT        ,SA,NA,7:00-8:30,,,7:00-8:30,
+Díaz Huerta Claudia Celia,FB,1CV4,Análisis Vectorial,CB        ,2205,LMA,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Díaz Huerta Claudia Celia,FB,1CV5,Análisis Vectorial,CB        ,2206,LMA,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Díaz Huerta Claudia Celia,FB,8AM1,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Díaz Santiago Ricardo Felipe,CIC,2CM1,Algoritmos y Estructuras de Datos,CC        ,2003,LP2,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Díaz Santiago Ricardo Felipe,CIC,3CM2,Análisis y Diseño de Algoritmos,CC        ,1204,LP3,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Díaz Santiago Sandra,CIC,4CM1,Teoría de la Computación,CC        ,1210,LP1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Díaz Santiago Sandra,CIC,7CM1,Selected Topics in Cryptography,CC        ,1014,LIA2,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Díaz Santiago Sandra,CIC,8CM1,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Díaz Toalá Iván,ISC,2BV1,Fundamentos de Diseño Digital,SDIG      ,4008,LD1,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Díaz Toalá Iván,ISC,3CM1,Fundamentos de Diseño Digital,SDIG      ,1203,LD2,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Díaz Toalá Iván,ISC,3CM12,Teoría de Comunicaciones y Señales,SDIST     ,1014,LD1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Díaz Toalá Iván,ISC,5BM1,Procesamiento de Señales,SDIG      ,4110,LS1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Díaz Toalá Iván,ISC,5CM1,Procesamiento Digital de Señales,SDIG      ,1214,LD1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Domínguez Hernández Samuel,FB,1AM3,Cálculo,CB        ,4113,NA,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Domínguez Hernández Samuel,FB,1CM8,Análisis Vectorial,CB        ,2110,NA,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Domínguez Hernández Samuel,FB,1CM8,Cálculo,CB        ,1012,NA,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Dorantes Villa Claudia Jisela,FB,1CM2,Matemáticas Discretas,CB        ,2203,LMD,7:00-8:30,12:00-13:30 L,,7:00-8:30,8:30-10:00
+Dorantes Villa Claudia Jisela,FB,1CM3,Matemáticas Discretas,CB        ,2204,LMD,12:00-13:30,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Dorantes Villa Claudia Jisela,FB,1CM6,Matemáticas Discretas,CB        ,2207,LMD,,10:30-12:00,10:30-12:00 L,12:00-13:30,10:30-12:00
+Durán Camarillo Edmundo René,CIC,3CM1,Circuitos Eléctricos (Lab),FSE       ,1203,LE1,,,8:30-10:00,,
+Durán Camarillo Edmundo René,CIC,3CM2,Circuitos Eléctricos,FSE       ,1204,LE1,10:30-12:00,08:30-10:00 L,,10:30-12:00,
+Durán Camarillo Edmundo René,CIC,3CM3,Circuitos Eléctricos,FSE       ,1205,LE1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Durán Camarillo Edmundo René,CIC,3CM4,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,12:00-13:30,,,,
+Durán Camarillo Edmundo René,CIC,7CM1,Trabajo Terminal I (Lab),TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Enríquez Zárate José Asunción,ISC,4BM2,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,3113,LS2,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Enríquez Zárate José Asunción,ISC,7CM3,Web Client and Backend Developmen Frameworks,ISW       ,2210,LS2,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Escalante Notario Enrique (int),CIC,6AV1,Analítica Avanzada de Datos,CD        ,4110,LCD1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Escamilla Miranda Patricia,ISC,4CM1,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1210,LS2,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Escamilla Miranda Patricia,ISC,4CM4,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1213,LS2,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Esparza Salinas Rocío,FII,8CM1,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2212,NA,12:00-13:30 L,,12:00-13:30 L,,
+Esparza Salinas Rocío,FII,8CM2,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2212,NA,,12:00-13:30 L,,,12:00-13:30 L
+Estrada Elizalde Serafín,ISC,3AV1,Finanzas Empresariales,PETD      ,3110,LGP1,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Estrada Elizalde Serafín,ISC,3CV2,Finanzas Empresariales,PETD      ,2006,LGP2,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Fernández Vázquez Alfonso,POSGR,3BV1,Diseño de Sistemas Digitales,SDIG      ,3108,LD2,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Fernández Vázquez Alfonso,POSGR,3MCM1,Estadística en Comunicaciones,POSGR     ,2112,NA,,12:00-13:30,13:30-15:00,,12:00-13:30
+Fernández Vázquez Alfonso,POSGR,3MCM1,Tópicos Seléctos de Comunicaciones Avanzadas,POSGR     ,2009,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Ferrer Tenorio Jorge,FII,8BM1,Trabajo Terminal II,TT        ,SA,NA,,10:30-12:00,10:30-12:00,,
+Ferrer Tenorio Jorge,FII,8CM1,Liderazgo Personal,CS        ,2212,NA,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Ferrer Tenorio Jorge,FII,8CM2,Liderazgo Personal,CS        ,2212,NA,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Ferrer Tenorio Jorge,FII,8CM3,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2213,NA,12:00-13:30 L,,,12:00-13:30 L,
+Figueroa Del Prado Felipe de Jesús,CIC,1BM1,Fundamentos de Programación,CC        ,3008,LP1,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Figueroa Del Prado Felipe de Jesús,CIC,1BV1,Fundamentos de Programación,CC        ,3008,LP1,13:30-15:00,,13:30-15:00 L,,13:30-15:00
+Figueroa Del Prado Felipe de Jesús,CIC,3CM1,Circuitos Eléctricos,FSE       ,1203,LE1,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Figueroa Del Prado Felipe de Jesús,CIC,3CM2,Circuitos Eléctricos (Lab),FSE       ,1204,LE1,,8:30-10:00,,,
+Figueroa Del Prado Felipe de Jesús,CIC,3CM3,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,,10:30-12:00,,,
+Figueroa Del Prado Felipe de Jesús,CIC,7CM1,Trabajo Terminal I,TT        ,SA,NA,10:30-12:00,,,10:30-12:00,
+Flores  Roque Allan Eduardo,ISC,7CM1,Sistemas Distribuidos,SDIST     ,1113,LS3,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Flores Delgado Raquel,ISC,3CV1,Finanzas Empresariales,PETD      ,2007,LGP1,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Flores Delgado Raquel,ISC,3CV5,Finanzas Empresariales,PETD      ,1205,LGP1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Flores Escobar  José Antonio,ISC,5BV1,Procesamiento de Señales,SDIG      ,3113,LD2,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Flores Escobar  José Antonio,ISC,5CV2,Arquitectura de Computadoras,SDIG      ,1213,LD1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Flores Escobar  José Antonio,ISC,6CM1,Sistemas en Chip,SDIG      ,1007,LD1,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Flores Escobar  José Antonio,ISC,6CV1,Sistemas en Chip,SDIG      ,1113,LD1,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Flores Estrada Ituriel Enrique (int),CIC,3CV5,Paradigmas de Programación,CC        ,1205,LP3,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Flores Estrada Ituriel Enrique (int),CIC,5AV1,Analítica y Visualización de Datos,CD        ,4108,LCD1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Flores Estrada Ituriel Enrique (int),CIC,5BV1,Tecnologías de Lenguaje Natural,IA        ,3113,LIA1,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Flores Fuentes Naria Adriana,FB,1CM5,Cálculo,CB        ,2206,LMAT,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Flores Fuentes Naria Adriana,FB,1CM6,Cálculo,CB        ,2207,LMAT,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Flores Mendoza Yaxkin,CIC,2CM4,Algoritmos y Estructuras de Datos,CC        ,2006,LP2,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Flores Mendoza Yaxkin,CIC,4CM2,Teoría de la Computación,CC        ,1211,LP2,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Flores Meraz Yesica Sonia,FB,1BM1,Matemáticas Discretas,CB        ,3008,LMD,10:30-12:00,8:30-10:00 L,,10:30-12:00,12:00-13:30
+Flores Meraz Yesica Sonia,FB,1BV1,Mecánica y Electromagnetismo,CB        ,3008,LF,,15:00-16:30 L,15:00-16:30,13:30-15:00,15:00-16:30
+Flores Meraz Yesica Sonia,FB,1CM5,Análisis Vectorial,CB        ,2206,LMA,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Flores Meraz Yesica Sonia,FB,1CV1,Análisis Vectorial,CB        ,2202,LMA,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Flores Meraz Yesica Sonia,FB,2CV1,Mecánica y Electromagnetismo,CB        ,2002,LF,13:30-15:00,13:30-15:00,13:30-15:00 L,,13:30-15:00
+Flores Meraz Yesica Sonia,FB,4BM2,Matemáticas Avanzadas para la Ingeniería,CB        ,3113,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Franco Martínez Edgardo Adrián,CIC,1CM3,Fundamentos de Programación,CC        ,2204,LP2,,12:00-13:30,,,08:30-13:30 L
+Franco Martínez Edgardo Adrián,CIC,2CM5,Algoritmos y Estructuras de Datos,CC        ,2007,LP2,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Franco Martínez Edgardo Adrián,CIC,2CM6,Algoritmos y Estructuras de Datos,CC        ,1202,LP2,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Franco Martínez Edgardo Adrián,CIC,3CM4,Análisis y Diseño de Algoritmos,CC        ,1206,LP3,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Franco Martínez Edgardo Adrián,CIC,8CM1,Trabajo Terminal II (Lab),TT        ,SA,NA,7:00-8:30,,,7:00-8:30,
+Galeana Chávez María del Rosario,CIC,3CV2,Bases de Datos,ISW       ,1202,LS1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Galeana Chávez María del Rosario,CIC,3CV3,Bases de Datos,ISW       ,1203,LS2,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Galeana Chávez María del Rosario,CIC,8CV2,Trabajo Terminal II (Lab),TT        ,SA,NA,,18:30-20:00,18:30-20:00,,
+Galicia Mejía Rubén,ISC,5CM4,Procesamiento Digital de Señales,SDIG      ,1113,LD1,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Galicia Mejía Rubén,ISC,5CM5,Procesamiento Digital de Señales,SDIG      ,1114,LD1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Galiñanes Rodríguez María Gabriela,ISC,2AV1,Fundamentos Económicos,PETD      ,4010,LGP1,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Galiñanes Rodríguez María Gabriela,ISC,2CV2,Fundamentos Económicos,PETD      ,2003,LGP1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Galiñanes Rodríguez María Gabriela,ISC,3CV3,Finanzas Empresariales,PETD      ,1203,LGP1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+García  Cortes Rocio,ISC,4AM2,Desarrollo de Aplicaciones Web,ISW       ,4109,LS4,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+García Blanquel Claudia,FB,2CM2,Cálculo Aplicado,CB        ,2004,LMA,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+García Blanquel Claudia,FB,4BM2,Probabilidad y Estadística,CB        ,3113,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+García Blanquel Claudia,FB,6AM1,Modelado Predictivo,CD        ,3209,LCD1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+García Floriano Andrés (int),CIC,3BV2,Paradigmas de Programación,CC        ,3109,LP3,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+García Floriano Andrés (int),CIC,3CV6,Análisis y Diseño de Algoritmos,CC        ,1206,LP3,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+García Floriano Andrés (int),CIC,4AV1,Bases de Datos Avanzadas,CD        ,3112,LCD1,15:00-16:30 L,13:30-15:00,,15:00-16:30,16:30-18:00
+García Floriano Andrés (int),CIC,5BV1,Aprendizaje de Máquina,IA        ,3113,LIA1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+García Floriano Andrés (int),CIC,6CV3,Inteligencia Artificial,IA        ,1007,LIA1,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+García Mendoza Consuelo Varinia,CIC,5AM1,Aprendizaje de Máquina e Inteligencia Artificial,IA        ,4112,LIA1,7:00-08:30 L,,,7:00-8:30,8:30-10:00
+García Mendoza Consuelo Varinia,CIC,5BM2,Aprendizaje de Máquina,IA        ,4111,LIA1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+García Salas Horacio Alberto (int),CIC,5BM1,Tecnologías de Lenguaje Natural,IA        ,4110,LIA1,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+García Salas Horacio Alberto (int),CIC,5BM2,Tecnologías de Lenguaje Natural,IA        ,4111,LIA1,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+García Salas Horacio Alberto (int),CIC,5BV1,Visión Artificial,IA        ,3113,LP3,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+García Salas Horacio Alberto (int),CIC,5CM5,Compiladores,CC        ,2209,LP1,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+García Salas Horacio Alberto (int),CIC,5CV5,Compiladores,CC        ,1112,LP2,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+García Sales Juan Vicente,CIC,1CV4,Fundamentos de Programación,CC        ,2205,LP1,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+García Sales Juan Vicente,CIC,3CV1,Paradigmas de Programación,CC        ,2007,LP3,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Gaspar Medina Fabián,ISC,4CM11,Administración de Servicios en Red,SDIST     ,2110,LR,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Gaspar Medina Fabián,ISC,4CM12,Administración de Servicios en Red,SDIST     ,2213,LR,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Gómez Mayorga Margarita Elizabeth,ISC,5CM1,Arquitectura de Computadoras,SDIG      ,1214,LD1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Gómez Mayorga Margarita Elizabeth,ISC,5CM5,Arquitectura de Computadoras,SDIG      ,1114,LD1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Gómez Mayorga Margarita Elizabeth,ISC,7BM1,Trabajo Terminal I (Lab),TT        ,SA,NA,8:30-10:00,,8:30-10:00,,
+Gómez Mayorga Margarita Elizabeth,ISC,7SV1,Ingeniería Ambiental Automotríz  (ISISA),CS        ,2110,NA,15:00-16:30,,,,13:30-15:00
+Gómez Tress Mariana,FII,1AV1,Comunicación Oral y Escrita,CS        ,3010,NA,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Gómez Tress Mariana,FII,1CV4,Comunicación Oral y Escrita,CS        ,2205,NA,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+González Albarrán Gisela,FII,1BV1,Comunicación Oral y Escrita,CS        ,3008,NA,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+González Albarrán Gisela,FII,2AV1,Ética y Legalidad,CS        ,4010,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+González Albarrán Gisela,FII,8CV1,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2209,NA,,16:30-18:00 L,,18:30-20:00 L,
+González Castillo Jesús Roberto,FB,2CM1,Cálculo Aplicado,CB        ,2003,LMA,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+González Castillo Jesús Roberto,FB,3CV5,Ecuaciones Diferenciales,CB        ,1205,NA,15:00-16:30,,,15:00-16:30,16:30-18:00
+González Cisneros Alejandro,FB,2CM4,Álgebra Lineal,CB        ,2006,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+González Cisneros Alejandro,FB,6CV3,Statistical Tools for Data Analytics,CB        ,1111,NA,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+González García Gustavo (int),CIC,1CV1,Fundamentos de Programación,CC        ,2202,LP1,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+González García Gustavo (int),CIC,2CV5,Algoritmos y Estructuras de Datos,CC        ,2006,LP2,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+González Ramírez Marko Alfonso,ISC,6BV1,Ingeniería de Software para Sistemas Inteligentes,ISW       ,4109,LS4,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+González Ramírez Marko Alfonso,ISC,7CV3,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,1014,LS3,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+González Trujillo Miguel Ángel,FB,1CM3,Análisis Vectorial,CB        ,2204,LMA,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+González Trujillo Miguel Ángel,FB,4CM1,Probabilidad y Estadística,CB        ,1210,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Gutiérrez Aldana Eduardo,ISC,3AM1,Métodos Numéricos,CC        ,3110,LCD1,12:00-13:30,12:00-13:30,12:00-13:30 L,12:00-13:30,
+Gutiérrez Aldana Eduardo,ISC,5CM3,Procesamiento Digital de Señales,SDIG      ,1112,LD1,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Gutiérrez Mejía Darwin,FB,1CV2,Matemáticas Discretas,CB        ,2203,LMD,15:00-16:30 L,13:30-15:00,,15:00-16:30,16:30-18:00
+Gutiérrez Mejía Darwin,FB,2AV2,Cálculo Multivariable,CB        ,4011,LF,,15:00-16:30,15:00-16:30,13:30-15:00 L,15:00-16:30
+Guzmán Aguilar Florencio,FB,1CM2,Análisis Vectorial,CB        ,2203,LMA,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Guzmán Aguilar Florencio,FB,2CM2,Mecánica y Electromagnetismo,CB        ,2004,LF,7:00-8:30,12:00-13:30,,7:00-8:30,8:30-10:00 L
+Guzmán Flores Jessie Paulina,ISC,3CM11,IT Governance,PETD      ,1202,LS4,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Guzmán Flores Jessie Paulina,ISC,5CM2,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1111,LGP1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Henestrosa Carrasco Leticia,ISC,5CV2,Redes de Computadoras,SDIST     ,1213,LR,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Henestrosa Carrasco Leticia,ISC,5CV3,Redes de Computadoras,SDIST     ,1214,LR,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Hernández Aguilar José Luis,CIC,4CV2,Electrónica Analógica,FSE       ,1209,LE1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Hernández Aguilar José Luis,CIC,5CV1,Instrumentación y Control,FSE       ,1212,LE1,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Hernández Aguilar José Luis,CIC,5CV4,Instrumentación y Control,FSE       ,1111,LE1,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Hernández Cruz Macario,CIC,1AM1,Introducción a la Ciencia de Datos,CD        ,3010,NA,,10:30-12:00,,12:00-13:30,
+Hernández Cruz Macario,CIC,1AM2,Introducción a la Ciencia de Datos,CD        ,3011,NA,,,10:30-12:00,,10:30-12:00
+Hernández Cruz Macario,CIC,4BM1,Fundamentos de Inteligencia Artificial,IA        ,3112,LIA1,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Hernández Cruz Macario,CIC,4BM2,Fundamentos de Inteligencia Artificial,IA        ,3113,LIA1,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Hernández García Rosa Alba,FII,1AV2,Comunicación Oral y Escrita,CS        ,3011,NA,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Hernández García Rosa Alba,FII,2CV1,Ingeniería Ética y Sociedad,CS        ,2002,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Hernández García Rosa Alba,FII,8BV1,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,4112,NA,18:30-20:00 L,,,18:30-20:00 L,
+Hernández Jaime Josefína,ISC,2BM1,Finanzas Empresariales,PETD      ,4008,NA,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Hernández Jaime Josefína,ISC,2BM2,Finanzas Empresariales,PETD      ,4009,NA,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Hernández Jaime Josefína,ISC,3CM1,Finanzas Empresariales,PETD      ,1203,LGP2,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Hernández Olvera Luis Enrique,CIC,5BV1,Teoría de la Computación,CC        ,3113,LP1,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Hernández Olvera Luis Enrique,CIC,5CV4,Compiladores,CC        ,1111,LP1,20:00-21:30,,20:00-21:30,20:00-21:30 L,
+Hernández Rubio Erika,ISC,3CV4,Bases de Datos,ISW       ,1204,LS1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Hernández Rubio Erika,ISC,3CV5,Bases de Datos,ISW       ,1205,LS1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Hernández Secundino José Celestino Elías,ISC,3CM3,Fundamentos de Diseño Digital,SDIG      ,1007,LD2,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Hernández Secundino José Celestino Elías,ISC,3CM4,Fundamentos de Diseño Digital,SDIG      ,1013,LD2,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Hernández Secundino José Celestino Elías,ISC,3CV3,Fundamentos de Diseño Digital,SDIG      ,1011,LD2,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Hernández Vásquez César (int),FB,1CM6,Análisis Vectorial,CB        ,2207,LMA,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Hernández Vásquez César (int),FB,1CM7,Análisis Vectorial,CB        ,2002,LMA,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Hernández Vásquez César (int),FB,2CM3,Mecánica y Electromagnetismo,CB        ,2005,LF,,12:00-8:30 L,7:00-8:30,,7:00-8:30
+Herrera Delgado Lizbeth Berenice,SUB ACAD,5AV1,Metodología de la Investigación y Divulgación Científica,CS        ,4108,NA,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Herrera Delgado Lizbeth Berenice,SUB ACAD,6BM2,Metodología de la Investigación y Divulgación Científica,CS        ,3208,NA,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Hurtado Avilés Gabriel (int),CIC,4CM3,Teoría de la Computación,CC        ,1212,LP2,7:00-8:30,,,07:00-08:30 L,08:30-10:00
+Hurtado Avilés Gabriel (int),CIC,4CM4,Teoría de la Computación,CC        ,1213,LP2,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Jiménez Benítez José Alfredo,ISC,4CV2,Sistemas Operativos,SDIST     ,1209,LS1,20:00-21:30,,20:00-21:30 L,20:00-21:30,
+Jiménez Benítez José Alfredo,ISC,5CV11,Trabajo Terminal II,TT        ,SA,NA,,15:00-16:30,15:00-16:30,,
+Jiménez Benítez José Alfredo,ISC,5CV5,Redes de Computadoras,SDIST     ,1112,LR,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Jiménez Benítez José Alfredo,ISC,6BV1,Cómputo Paralelo,SDIST     ,4109,LS3,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Jiménez Galán  Yasmín Ivette,ISC,2BV2,Finanzas Empresariales,PETD      ,4009,NA,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Jiménez Galán  Yasmín Ivette,ISC,5CV11,Trabajo Terminal II (Lab),TT        ,SA,NA,15:00-16:30,,,15:00-16:30,
+Jiménez Galán  Yasmín Ivette,ISC,8CV2,Gestión Empresarial,PETD      ,2210,NA,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Jiménez Galán  Yasmín Ivette,ISC,8CV3,Gestión Empresarial,PETD      ,2212,NA,,18:30-20:00,18:30-20:00,,18:30-20:00 L
+Jiménez Ruíz René Baltazar,ISC,4CV3,Diseño de Sistemas Digitales,SDIG      ,1210,LD2,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Jiménez Ruíz René Baltazar,ISC,5CV3,Arquitectura de Computadoras,SDIG      ,1214,LD1,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Jiménez Ruíz René Baltazar,ISC,5CV4,Arquitectura de Computadoras,SDIG      ,1111,LD1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Jiménez Ruíz René Baltazar,ISC,6CV2,Sistemas en Chip,SDIG      ,1114,LD1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Jiménez Ruíz René Baltazar(Int),ISC,3BV2,Diseño de Sistemas Digitales,SDIG      ,3109,LD2,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Jiménez Villanueva Martha Patricia,FB,1AM1,Matemáticas Discretas,CB        ,3010,LMD,10:30-12:00,8:30-10:00,12:00-13:30,10:30-12:00 L,
+Jiménez Villanueva Martha Patricia,FB,1BM2,Matemáticas Discretas,CB        ,3009,LMD,8:30-10:00,,8:30-10:00,8:30-10:00,12:00-13:30 L
+Jiménez Villanueva Martha Patricia,FB,4CM11,Trabajo Terminal I (Lab),TT        ,SA,NA,12:00-13:30,,,12:00-13:30,
+Juárez Gambino Joel Omar,CIC,6AM1,Procesamiento de Lenguaje Natural,IA        ,3209,LCD1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Juárez Gambino Joel Omar,CIC,7CM1,Natural Language Processing,IA        ,1014,LIA2,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Juárez León Carlos,FB,2CV1,Cálculo Aplicado,CB        ,2002,LMA,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Juárez León Carlos,FB,2CV2,Cálculo Aplicado,CB        ,2003,LMA,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Juárez Martínez Genaro,CIC,4CV2,Teoría de la Computación,CC        ,1209,LP2,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Juárez Martínez Genaro,CIC,5BM1,Algoritmos Bioinspirados,CC        ,4110,LIA1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Juárez Martínez Genaro,CIC,5BM2,Teoría de la Computación,CC        ,4111,LIA1,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Juárez Martínez Genaro,CIC,7CM3,Trabajo Terminal I (Lab),TT        ,SA,NA,,7:00-8:30,7:00-8:30,,
+Juárez Mendez Ana Belem (int),CIC,2AV2,Algoritmos y Estructuras de Datos,CC        ,4011,LP1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Juárez Mendez Ana Belem (int),CIC,3BV1,Análisis y Diseño de Algoritmos,CC        ,3108,LP3,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Juárez Mendez Ana Belem (int),CIC,3BV2,Análisis y Diseño de Algoritmos,CC        ,3109,LP2,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Juárez Mendez Ana Belem (int),CIC,3CV6,Bases de Datos,ISW       ,1206,LS1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Juárez Mendez Ana Belem (int),CIC,4CM2,Sistemas Operativos,SDIST     ,1211,LS1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Jurado Jiménez Roberto,FB,1CV3,Cálculo,CB        ,2204,LMAT,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Jurado Jiménez Roberto,FB,1CV4,Cálculo,CB        ,2205,LMAT,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Lazcano Xoxotla Laura,FII,1CV2,Comunicación Oral y Escrita,CS        ,2203,NA,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Lazcano Xoxotla Laura,FII,1CV3,Comunicación Oral y Escrita,CS        ,2204,NA,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Lazcano Xoxotla Laura,FII,5CV12,Trabajo Terminal II,TT        ,SA,NA,,15:00-16:30,15:00-16:30,,
+Leal Pacheco Christian René,FB,3BV1,Ecuaciones Diferenciales,CB        ,3108,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Leal Pacheco Christian René,FB,4CV4,Matemáticas Avanzadas para la Ingeniería,CB        ,1211,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+León Hernández Miguel Abel,FB,2AV1,Cálculo Multivariable,CB        ,4010,LF,16:30-18:00,20:00-21:30 L,16:30-18:00,16:30-18:00,
+León Hernández Miguel Abel,FB,2CV1,Álgebra Lineal,CB        ,2002,NA,,15:00-16:30,15:00-16:30,,15:00-16:30
+Levario  Medina Sergio,FB,1BV1,Cálculo,CB        ,3008,LMAT,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Levario  Medina Sergio,FB,1CV6,Cálculo,CB        ,2207,LMAT,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Levario  Medina Sergio,FB,2CV4,Mecánica y Electromagnetismo,CB        ,2005,LF,16:30-18:00,13:30-15:00,16:30-18:00,16:30-18:00 L,
+Levario  Medina Sergio,FB,2CV5,Cálculo Aplicado,CB        ,2006,LMA,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Levario  Medina Sergio,FB,2CV5,Mecánica y Electromagnetismo,CB        ,2006,LF,18:30-20:00,16:30-18:00 L,13:30-15:00,18:30-20:00,
+Levario  Medina Sergio,FB,4CV3,Probabilidad y Estadística,CB        ,1210,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+Linares Vallejo Erick Eugenio,ISC,3CV1,Fundamentos de Diseño Digital,SDIG      ,2007,LD2,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Linares Vallejo Erick Eugenio,ISC,4CV1,Diseño de Sistemas Digitales,SDIG      ,1207,LD2,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Linares Vallejo Erick Eugenio,ISC,6CV4,Sistemas en Chip,SDIG      ,1011,LD1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Linares Vallejo Erick Eugenio,ISC,7SV1,Aplicaciones con Microcontroladores para el Automóvil (ISISA),SDIG      ,2110,NA,18:30-20:00,16:30-18:00,,,15:00-16:30
+López  Rojas Ariel,ISC,6CM2,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1011,LGP2,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+López  Rojas Ariel,ISC,6CM3,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1012,LGP2,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+López  Rojas Ariel,ISC,6CM4,High Technology Enterprise Management,PETD      ,1013,LS4,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+López  Rojas Ariel,ISC,6CV3,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1007,LGP1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+López  Rojas Ariel,ISC,6CV4,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1203,LGP1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+López Carrera Benjamín,FB,3CM5,Ecuaciones Diferenciales,CB        ,1207,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+López Carrera Benjamín,FB,3CM6,Ecuaciones Diferenciales,CB        ,1209,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+López Gómez Alejandro (int),CIC,4AM2,Desarrollo de Aplicaciones para Análisis de Datos,CD        ,4109,LCD1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+López Gómez Alejandro (int),CIC,6AM1,Análisis de Series de Tiempo,CD        ,3209,LCD1,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+López Gómez Alejandro (int),CIC,6AM1,Estadística Avanzada,CD        ,3209,LIA2,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+López Leyva Luis Octavio,ISC,3CV2,Fundamentos de Diseño Digital,SDIG      ,1202,LD2,20:00-21:30,,20:00-21:30 L,20:00-21:30,
+López Leyva Luis Octavio,ISC,4CV4,Diseño de Sistemas Digitales,SDIG      ,1211,LD2,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+López Rodríguez Claudia Alejandra,ISC,3BM2,Diseño de Sistemas Digitales,SDIG      ,3109,LD2,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+López Rodríguez Claudia Alejandra,ISC,3CM2,Fundamentos de Diseño Digital,SDIG      ,1204,LD2,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+López Ruíz Gabriela de Jesús,ISC,4BM2,Análisis y Diseño de Sistemas,ISW       ,3009,LS3,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+López Ruíz Gabriela de Jesús,ISC,4CV3,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,2003,LS2,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+López Ruíz Gabriela de Jesús,ISC,6CM4,Inteligencia Artificial,IA        ,1013,LIA1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+López Ruíz Gabriela de Jesús,ISC,6CM5,Inteligencia Artificial,IA        ,2109,LIA1,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+López Ruíz Gabriela de Jesús,ISC,6CV1,Inteligencia Artificial,IA        ,1011,LIA1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+López Sánchez José Manuel,FB,1AV1,Matemáticas Discretas,CB        ,3010,LMD,15:00-16:30,,13:30-15:00 L,15:00-16:30,16:30-18:00
+López Sánchez José Manuel,FB,1BV2,Cálculo,CB        ,3009,LMAT,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+López Sánchez José Manuel,FB,1CV1,Cálculo,CB        ,2202,LMAT,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+López Sánchez José Manuel,FB,1CV6,Matemáticas Discretas,CB        ,2207,LMD,,18:30-20:00 L,18:30-20:00,13:30-15:00,18:30-20:00
+López Sánchez José Manuel,FB,2BV1,Cálculo Multivariable,CB        ,4008,LF,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Loyola Espinosa Araceli,FII,8BM1,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,3210,NA,12:00-13:30 L,,,12:00-13:30 L,
+Loyola Espinosa Araceli,FII,8CV1,Liderazgo Personal,CS        ,2209,NA,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Loyola Espinosa Araceli,FII,8CV1,Trabajo Terminal II (Lab),TT        ,SA,NA,13:30-15:00,,,13:30-15:00,
+Lucio Peña Perla Cecilia,FB,1CM7,Cálculo,CB        ,2002,LMAT,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Lucio Peña Perla Cecilia,FB,2BM1,Cálculo Multivariable,CB        ,4008,LF,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Lucio Peña Perla Cecilia,FB,3CV4,Ecuaciones Diferenciales,CB        ,1204,NA,13:30-15:00,13:30-15:00,,13:30-15:00,
+Lucio Peña Perla Cecilia,FB,4CM1,Matemáticas Avanzadas para la Ingeniería,CB        ,1210,NA,8:30-10:00,,8:30-10:00,8:30-10:00,
+Lucio Peña Perla Cecilia,FB,5AM1,Procesos Estocásticos,CD        ,4112,LCD1,,12:00-12:00 L,10:30-12:00,,10:30-12:00
+Luna Benoso Benjamín,CIC,3CM3,Análisis y Diseño de Algoritmos,CC        ,1205,LP3,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Luna Benoso Benjamín,CIC,5BM1,Teoría de la Computación,CC        ,4110,LIA1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Maldonado Castillo Idalia,ISC,5CM3,Análisis y Diseño de Sistemas,ISW       ,1207,LS1,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Maldonado Castillo Idalia,ISC,6BM1,Ingeniería de Software para Sistemas Inteligentes,ISW       ,4113,LS4,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Maldonado Castillo Idalia,ISC,7BM1,Interacción Humano Máquina,IA        ,3210,LIA2,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Maldonado Castillo Idalia,ISC,8BM1,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Maldonado Muñoz Miguel Ángel,ISC,8AM1,Gestión Empresarial,PETD      ,3212,NA,,10:30-12:00,10:30-12:00,8:30-10:00 L,10:30-12:00
+Maldonado Muñoz Miguel Ángel,ISC,8CM3,Gestión Empresarial,PETD      ,2213,LGP1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Manzanilla Granados Héctor Manuel,FB,2BV2,Cálculo Multivariable,CB        ,4009,LF,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Manzanilla Granados Héctor Manuel,FB,2CV2,Mecánica y Electromagnetismo,CB        ,2003,LF,16:30-18:00,20:00-21:30,16:30-18:00 L,16:30-18:00,
+Manzanilla Granados Héctor Manuel,FB,4CV3,Matemáticas Avanzadas para la Ingeniería,CB        ,1210,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Martínez Acosta Lilian,FII,2AM2,Ética y Legalidad,CS        ,4011,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+Martínez Acosta Lilian,FII,2BV1,Ingeniería Ética y Sociedad,CS        ,4008,NA,13:30-15:00,13:30-15:00,,13:30-15:00,
+Martínez Acosta Lilian,FII,2CM2,Ingeniería Ética y Sociedad,CS        ,2004,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Martínez Acosta Lilian,FII,6BM1,Metodología de la Investigación y Divulgación Científica,CS        ,4113,NA,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Martínez Díaz Juan Carlos,CIC,4CM2,Electrónica Analógica,FSE       ,1211,LE1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Martínez Díaz Juan Carlos,CIC,4CM3,Electrónica Analógica,FSE       ,1212,LE1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Martínez Díaz Juan Carlos,CIC,7CM2,Trabajo Terminal I (Lab),TT        ,SA,NA,,13:30-15:00,,13:30-15:00,
+Martínez García César Román,FB,2AM2,Cálculo Multivariable,CB        ,4011,LF,10:30-12:00,8:30-10:00,12:00-13:30,10:30-12:00 L,
+Martínez García César Román,FB,2CM4,Mecánica y Electromagnetismo,CB        ,2006,LF,8:30-10:00,12:00-13:30,8:30-10:00 L,8:30-10:00,
+Martínez García César Román,FB,2CM6,Mecánica y Electromagnetismo,CB        ,1202,LF,13:30-15:00,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Martínez Guerrero José Alfredo,CIC,3CV4,Circuitos Eléctricos,FSE       ,1204,LE1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Martínez Guerrero José Alfredo,CIC,4CV1,Electrónica Analógica,FSE       ,1207,LE1,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Martínez Guerrero José Alfredo,CIC,4CV4,Electrónica Analógica,FSE       ,1211,LE1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Martínez Nuño Jesús Alfredo,POSGR,1MCM1,Métodos Matemáticos para el análisis de sistemas y señales,POSGR     ,2111,NA,15:00-16:30,15:00-16:30,15:00-16:30,,15:00-16:30
+Martínez Nuño Jesús Alfredo,POSGR,4CV2,Matemáticas Avanzadas para la Ingeniería,CB        ,1209,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Martínez Nuño Jesús Alfredo,POSGR,5CV11,Trabajo Terminal II (Lab),TT        ,SA,NA,20:00-21:30,,20:00-21:30,,
+Martínez Perales José Cruz,ISC,2CV4,Fundamentos Económicos,PETD      ,2005,LGP1,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Martínez Perales José Cruz,ISC,6CM1,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1205,LGP1,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Martínez Perales José Cruz,ISC,6CM5,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,2109,LGP2,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Martínez Perales José Cruz,ISC,6CV1,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1113,LGP2,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Martínez Perales José Cruz,ISC,6CV2,Métodos Cuantitativos para la Toma de Desiciones,PETD      ,1114,LGP1,,18:30-20:00,18:30-20:00,,13:30-15:00 L
+Martínez Rosales Ricardo,ISC,7CM1,Administración de Servicios en Red,SDIST     ,1014,LR,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Martínez Rosales Ricardo,ISC,7CM2,Administración de Servicios en Red,SDIST     ,2209,LR,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Mata Gil Patricia,ISC,2BV1,Finanzas Empresariales,PETD      ,4008,NA,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Mata Gil Patricia,ISC,3CV4,Finanzas Empresariales,PETD      ,1204,LGP1,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Melara Abarca Reyna Elia,ISC,3CM2,Bases de Datos,ISW       ,1204,LS1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Melara Abarca Reyna Elia,ISC,4BV1,Análisis y Diseño de Sistemas,ISW       ,3111,LS2,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Melara Abarca Reyna Elia,ISC,5CM12,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Melara Abarca Reyna Elia,ISC,5CM4,Análisis y Diseño de Sistemas,ISW       ,1113,NA,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Melara Abarca Reyna Elia,ISC,6CM5,Ingeniería de Software,ISW       ,2109,LS4,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Méndez Segundo Laura,ISC,2MCM1,Seminario II,POSGR     ,2010,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Méndez Segundo Laura,ISC,3MCM1,Gestión de Proy para Comp Móvil,POSGR     ,2010,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Méndez Segundo Laura,ISC,4BM1,Análisis y Diseño de Sistemas,ISW       ,3112,LS2,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Méndez Segundo Laura,ISC,7CV2,Trabajo Terminal I (Lab),TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Miguel Pilar Zelin,FB,1CM1,Análisis Vectorial,CB        ,2202,LMA,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Miguel Pilar Zelin,FB,3CM3,Ecuaciones Diferenciales,CB        ,1205,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Molina Pérez Daniel (Int),CIC,3CV1,Análisis y Diseño de Algoritmos,CC        ,2007,LP1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Molina Pérez Daniel (Int),CIC,3CV3,Análisis y Diseño de Algoritmos,CC        ,1203,LP3,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Molina Pérez Daniel (Int),CIC,6BV1,Tópicos Selectos de Algoritmos Bioinspirados,CC        ,4109,LP2,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Montes Meza Adbel Anahí (int),ISC,6CM2,Sistemas en Chip,SDIG      ,1011,LD1,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Montes Meza Adbel Anahí (int),ISC,6CM3,Sistemas en Chip,SDIG      ,1012,LD1,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Montiel Sánchez Ángel Salvador,FB,1BV2,Matemáticas Discretas,CB        ,3009,LMD,,15:00-16:30,15:00-16:30,13:30-15:00 L,15:00-16:30
+Montiel Sánchez Ángel Salvador,FB,4BV1,Probabilidad y Estadística,CB        ,3011,NA,16:30-18:00,,16:30-18:00,16:30-18:00,
+Montiel Sánchez Ángel Salvador,FB,4CV1,Probabilidad y Estadística,CB        ,1012,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Morales Cruz Juan Carlos,ISC,3CV4,Fundamentos de Diseño Digital,SDIG      ,1204,LD2,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Morales Cruz Juan Carlos,ISC,5CM4,Arquitectura de Computadoras,SDIG      ,1113,LD1,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Morales Cruz Juan Carlos,ISC,6CM4,Sistemas en Chip,SDIG      ,1013,LD1,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Morales González Ángel,FB,2CM2,Álgebra Lineal,CB        ,2004,NA,8:30-10:00,,8:30-10:00,8:30-10:00,
+Morales González Ángel,FB,3CM11,Economic Engineering,CB        ,1206,NA,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Morales Güitrón Sandra Luz,ISC,4AV1,Desarrollo de Aplicaciones para Análisis de Datos,CD        ,3112,LCD1,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Morales Güitrón Sandra Luz,ISC,4CV2,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1209,LS2,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Morales Güitrón Sandra Luz,ISC,7CV1,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,1012,LS3,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Morales Rodríguez Úrsula Samantha (int),CIC,1AV1,Fundamentos de Programación,CC        ,3010,LCD1,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Morales Rodríguez Úrsula Samantha (int),CIC,1AV2,Fundamentos de Programación,CC        ,3111,LCD1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Morales Rodríguez Úrsula Samantha (int),CIC,7SV1,Arquitecturas Embebidas Automotrices (ISISA),SDIG      ,2110,NA,,15:00-16:30,13:30-15:00,15:00-16:30,
+Morales Rodríguez Úrsula Samantha (int),CIC,7SV1,Arquitecturas Embebidas Automotrices (ISISA) (Lab),SDIG      ,2110,LS3,,,15:00-16:30 L,,
+Moreno Cervantes Axel Ernesto,ISC,6CM1,Aplicaciones para Comunicaciones en Red,SDIST     ,1007,LS3,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Moreno Cervantes Axel Ernesto,ISC,6CM2,Aplicaciones para Comunicaciones en Red,SDIST     ,1011,LS3,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Moreno Cervantes Axel Ernesto,ISC,6CM3,Aplicaciones para Comunicaciones en Red,SDIST     ,1012,LR,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Moreno Cervantes Axel Ernesto,ISC,6CM5,Aplicaciones para Comunicaciones en Red,SDIST     ,2109,LR,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Moreno Galván Elizabeth (int),CIC,3AM2,Análisis y Diseño de Algoritmos,CC        ,3111,LP2,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Moreno Galván Elizabeth (int),CIC,6BM1,Aplicaciones de Lenguaje Natural,IA        ,4113,LIA2,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Moscoso Malagón Yosafat,CIC,2CV4,Algoritmos y Estructuras de Datos,CC        ,2005,LP2,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Moscoso Malagón Yosafat,CIC,4CV1,Teoría de la Computación,CC        ,1207,LP3,20:00-21:30,,20:00-21:30 L,20:00-21:30,
+Mosso García Iván Giovanny,FB,1AM2,Matemáticas Discretas,CB        ,3011,LMD,8:30-10:00,10:30-12:00 L,8:30-10:00,8:30-10:00,
+Mújica Ascencio César,ISC,2BM1,Fundamentos de Diseño Digital,SDIG      ,4008,LD2,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Mújica Ascencio César,ISC,3BM1,Diseño de Sistemas Digitales,SDIG      ,3108,LD2,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Mújica Ascencio César,ISC,3CM6,Fundamentos de Diseño Digital,SDIG      ,1209,LD2,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Mújica Ascencio César,ISC,4CM2,Diseño de Sistemas Digitales,SDIG      ,1211,LD2,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Mújica Ascencio César,ISC,7SV1,Sistemas Digitales (ISISA),SDIG      ,2110,LD2,13:30-15:00,13:30-15:00 L,,13:30-15:00 L,
+Muñoz Salazar Laura,FB,1BM1,Mecánica y Electromagnetismo,CB        ,3008,LF,13:30-15:00 L,10:30-12:00,10:30-12:00,,10:30-12:00
+Muñoz Salazar Laura,FB,1BM2,Mecánica y Electromagnetismo,CB        ,3009,LF,12:00-13:30,12:00-13:30,12:00-13:30 L,12:00-13:30,
+Muñoz Salazar Laura,FB,1CM4,Análisis Vectorial,CB        ,2205,LMA,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Muñoz Salazar Laura,FB,4CM11,Trabajo Terminal I (Lab),TT        ,SA,NA,10:30-12:00,,,10:30-12:00,
+Nava Lara Joel,FB,1CV4,Matemáticas Discretas,CB        ,2205,LMD,16:30-18:00,13:30-15:00,16:30-18:00 L,16:30-18:00,
+Nava Lara Joel,FB,2AV1,Álgebra Lineal,CB        ,4010,NA,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Nava Lara Joel,FB,2CV2,Álgebra Lineal,CB        ,2003,NA,15:00-16:30,,,15:00-16:30,16:30-18:00
+Ocampo Botello Fabiola,ISC,5AV1,Minería de Datos,CD        ,4108,LCD1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Ocampo Botello Fabiola,ISC,5CM12,Trabajo Terminal II,TT        ,SA,NA,,7:00-8:30,7:00-8:30,,
+Ocampo Botello Fabiola,ISC,6BM2,Minería de Datos,CD        ,3208,LIA2,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Ocotitla Rojas Nancy,ISC,3AM1,Bases de Datos,ISW       ,3110,NA,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Ocotitla Rojas Nancy,ISC,3CM1,Bases de Datos,ISW       ,1203,LS1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Ocotitla Rojas Nancy,ISC,5CM12,Trabajo Terminal II (Lab),TT        ,SA,NA,10:30-12:00,,,10:30-12:00,
+Ojeda Guillén Didier,FB,1AM1,Cálculo,CB        ,3010,LMAT,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Ojeda Guillén Didier,FB,1BM2,Cálculo,CB        ,3113,LMAT,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Ojeda Santillan Rodrigo,ISC,4CV11,Desarrollo de Sistemas Distribuidos,SDIST     ,2211,NA,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Ojeda Santillan Rodrigo,ISC,6CV3,Aplicaciones para Comunicaciones en Red,SDIST     ,1007,NA,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Ojeda Santillan Rodrigo,ISC,6CV4,Aplicaciones para Comunicaciones en Red,SDIST     ,1011,NA,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Ojeda Santillan Rodrigo,ISC,7CM4,Sistemas Distribuidos,SDIST     ,2211,LS3,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Olalde Mogollán Norma,FII,2CV3,Ingeniería Ética y Sociedad,CS        ,2004,NA,15:00-16:30,,,15:00-16:30,16:30-18:00
+Olalde Mogollán Norma,FII,2CV4,Ingeniería Ética y Sociedad,CS        ,2005,NA,,15:00-16:30,15:00-16:30,,15:00-16:30
+Olalde Mogollán Norma,FII,7AM1,Trabajo Terminal I,TT        ,SA,NA,,7:00-8:30,7:00-8:30,,
+Olalde Mogollán Norma,FII,8CV2,Liderazgo Personal,CS        ,2210,NA,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Ortega González Jean,FII,2AM1,Ética y Legalidad,CS        ,4010,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+Ortega González Jean,FII,4AM2,Liderazgo Personal,CS        ,4109,LSOC,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Ortigoza Campos Andrés,CIC,3AM2,Métodos Numéricos,CC        ,3111,LCD1,10:30-12:00,8:30-10:00,,10:30-12:00 L,12:00-13:30
+Ortigoza Campos Andrés,CIC,5CM1,Compiladores,CC        ,1214,LP1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Ortigoza Campos Andrés,CIC,5CM11,Trabajo Terminal II,TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Ortíz Castillo Marco Antonio (int),CIC,6AV1,Procesamiento de Lenguaje Natural,IA        ,4110,LCD1,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Ortíz Castillo Marco Antonio (int),CIC,6BV1,Técnicas de Programación para Robots Móviles,IA        ,4109,LIA2,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Ortíz Castillo Marco Antonio (int),CIC,6CV2,Inteligencia Artificial,IA        ,1114,LIA1,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Ortíz Castillo Marco Antonio (int),CIC,6CV2,Machine Learning,IA        ,1114,LIA1,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Ortíz Ramírez José Antonio,ISC,4CV1,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1207,LS3,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Ortíz Ramírez José Antonio,ISC,7CV2,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,1013,LS4,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Ortuño Araujo Jesús,FB,1CV3,Análisis Vectorial,CB        ,2204,LMA,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Ortuño Araujo Jesús,FB,1CV6,Análisis Vectorial,CB        ,2207,LMA,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Ortuño Araujo Jesús,FB,2BV2,Álgebra Lineal,CB        ,4009,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Ortuño Araujo Jesús,FB,2CV4,Álgebra Lineal,CB        ,2005,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Pachuca Herrera Yanira,FB,2CM3,Álgebra Lineal,CB        ,2005,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Pachuca Herrera Yanira,FB,4AM2,Estadística,CB        ,4109,LMA,8:30-10:00,13:30-15:00 L,8:30-10:00,8:30-10:00,
+Pachuca Herrera Yanira,FB,4AV1,Estadística,CB        ,3112,LMA,13:30-15:00,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Pachuca Herrera Yanira,FB,4CM3,Probabilidad y Estadística,CB        ,1212,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Pachuca Herrera Yanira,FB,4CM4,Probabilidad y Estadística,CB        ,1213,NA,,12:00-13:30,13:30-15:00,,12:00-13:30
+Palacios Solano Rocío,ISC,5CV1,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1212,LS4,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Palacios Solano Rocío,ISC,5CV5,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1112,LGP2,16:30-18:00,,16:30-18:00 L,16:30-18:00 L,
+Palacios Solano Rocío,ISC,7AM1,Administración de Proyectos de TI,PETD      ,3211,LS2,12:00-13:30,12:00-13:30,12:00-13:30 L,12:00-13:30,
+Palacios Solano Rocío,ISC,7CV2,IT Governance,PETD      ,1013,LS2,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Palma Orozco Rosaura,CIC,3CV4,Análisis y Diseño de Algoritmos,CC        ,1204,LP3,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Palma Orozco Rosaura,CIC,3CV5,Análisis y Diseño de Algoritmos,CC        ,1205,LP3,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Paredes Cadena Myriam Noemí,CIC,1CM1,Fundamentos de Programación,CC        ,2202,LP1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Paredes Cadena Myriam Noemí,CIC,5CM11,Trabajo Terminal II (Lab),TT        ,SA,NA,12:00-13:30,,,12:00-13:30,
+Paredes Cadena Myriam Noemí,CIC,8CV1,Gestión Empresarial,PETD      ,2209,LGP1,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Pastrana Fernández Carlos Jesús,ISC,4CV2,Diseño de Sistemas Digitales,SDIG      ,1209,LD2,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Pastrana Fernández Carlos Jesús,ISC,5CM3,Arquitectura de Computadoras,SDIG      ,1112,LD1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Pastrana Fernández Carlos Jesús,ISC,5CV6,Arquitectura de Computadoras,SDIG      ,1013,LD1,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Peña Leal Lezly Fabiola,FII,1AM2,Comunicación Oral y Escrita,CS        ,3011,NA,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Peredo Valderrama Rubén,ISC,4BM1,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,3112,NA,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Peredo Valderrama Rubén,ISC,5CM1,Análisis y Diseño de Sistemas,ISW       ,1214,LS1,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Peredo Valderrama Rubén,ISC,5CM2,Análisis y Diseño de Sistemas,ISW       ,1111,LS1,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Peredo Valderrama Rubén,ISC,8CV2,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Pérez de los Santos Mondragón Tanibet,ISC,4CM3,Sistemas Operativos,SDIST     ,1212,LS1,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Pérez de los Santos Mondragón Tanibet,ISC,5CM11,Trabajo Terminal II (Lab),TT        ,SA,NA,10:30-12:00,,,10:30-12:00,
+Pérez de los Santos Mondragón Tanibet,ISC,6CV1,Aplicaciones para Comunicaciones en Red,SDIST     ,1113,LR,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Pérez de los Santos Mondragón Tanibet,ISC,6CV2,Aplicaciones para Comunicaciones en Red,SDIST     ,1210,LR,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Pérez Hernádez María del Pilar Monserrat,FII,8CV2,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2210,NA,,,15:00-16:30 L,,15:00-16:30 L
+Pérez Vera Sandra Mercedes,FII,3BV1,Liderazgo Personal,CS        ,3108,NA,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Pérez Vera Sandra Mercedes,FII,4AV1,Liderazgo Personal,CS        ,3112,NA,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Pescador Rojas Miriam,CIC,3MCM1,Embedded Systems,POSGR     ,2010,NA,8:30-10:00,,8:30-10:00,8:30-10:00,
+Pescador Rojas Miriam,CIC,5BM2,Algoritmos Bioinspirados,CC        ,4111,LIA2,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Pineda Guerrero Carlos,ISC,7CV1,Sistemas Distribuidos,SDIST     ,1012,LS4,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Pineda Guerrero Carlos,ISC,7CV2,Administración de Servicios en Red,SDIST     ,1013,LR,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Pineda Guerrero Carlos,ISC,7CV2,Sistemas Distribuidos,SDIST     ,1013,LS3,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Pineda Guerrero Carlos,ISC,7CV3,Sistemas Distribuidos,SDIST     ,1014,LS3,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Puebla Lomas Jaime Hugo,ISC,5CV12,Trabajo Terminal II (Lab),TT        ,SA,NA,15:00-16:30,,,15:00-16:30,
+Puebla Lomas Jaime Hugo,ISC,5CV2,Procesamiento Digital de Señales,SDIG      ,1213,LD1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Puebla Lomas Jaime Hugo,ISC,5CV4,Redes de Computadoras,SDIST     ,1111,LR,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Ramírez Guzmán Alicia Marcela,ISC,7AM1,Innovación y Emprendimiento Tecnológico,PETD      ,3211,NA,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Ramírez Guzmán Alicia Marcela,ISC,7BM1,Propiedad Intelectual,PETD      ,3210,NA,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Ramírez Martínez Elia Tzindejhé,FII,3BM2,Liderazgo Personal,CS        ,3109,NA,10:30-12:00 L,08:30-10:00,,10:30-12:00,
+Ramírez Martínez Elia Tzindejhé,FII,8AM1,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,3212,NA,12:00-13:30,,12:00-13:30 L,12:00-13:30 L,
+Ramírez Martínez Elia Tzindejhé,FII,8CV1,Trabajo Terminal II (Lab),TT        ,SA,NA,,12:00-13:30,13:30-15:00,,
+Ramírez Morales Mario Augusto (inv),CIC,3AM1,Programación para la Ciencia de Datos,CD        ,3110,LCD1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Ramírez Romero Tonáhtiu Arturo,CIC,1BV2,Fundamentos de Programación,CC        ,3009,LP1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Ramírez Romero Tonáhtiu Arturo,CIC,2BV1,Algoritmos y Estructuras de Datos,CC        ,4008,LIA1,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Ramírez Romero Tonáhtiu Arturo,CIC,2CV3,Algoritmos y Estructuras de Datos,CC        ,2004,LP2,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Ramírez Romero Tonáhtiu Arturo,CIC,2MCM1,Sistemas Operativos para Cómputo Móvil,POSGR     ,2112,NA,,15:00-16:30,15:00-16:30,,15:00-16:00
+Ramírez Tenorio Rafael,ISC,2AM1,Fundamentos Económicos,PETD      ,4010,LGP3,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Ramírez Tenorio Rafael,ISC,2AM2,Fundamentos Económicos,PETD      ,4011,LGP2,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Ramírez Tenorio Rafael,ISC,3AM1,Finanzas Empresariales,PETD      ,3110,LGP1,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Ramírez Tenorio Rafael,ISC,7BM1,Trabajo Terminal I (Lab),TT        ,SA,NA,12:00-13:30,,12:00-13:30,,
+Ramos Porras Alejandra,ISC,3CM6,Finanzas Empresariales,PETD      ,1209,LGP2,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Ramos Porras Alejandra,ISC,5CV3,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1214,LGP1,20:00-21:30 L,,20:00-21:30,20:00-21:30 L,
+Ramos Porras Alejandra,ISC,7AM1,Propiedad Intelectual LCD,PETD      ,3211,NA,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Ramos Porras Alejandra,ISC,8CV3,Liderazgo Personal,CS        ,2212,NA,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Rangel González Josué,ISC,4AM2,Cómputo de Alto Desempeño,SDIST     ,4109,LS2,10:30-12:00 L,8:30-10:00,13:30-15:00,10:30-12:00 L,
+Rangel González Josué,ISC,6BM1,Cómputo Paralelo,SDIST     ,4113,LS3,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Rangel González Josué,ISC,6BM2,Cómputo Paralelo,SDIST     ,3208,LS3,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Rangel González Josué,ISC,6CV1,Computer Security,SDIST     ,1202,LS2,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Rangel Pérez María Teresa,FII,1CV5,Comunicación Oral y Escrita,CS        ,2206,NA,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Reséndiz Muñoz Rocío,CIC,1CM5,Fundamentos de Programación,CC        ,2206,LP1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Reséndiz Muñoz Rocío,CIC,1CM6,Fundamentos de Programación,CC        ,2207,LP3,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Reséndiz Muñoz Rocío,CIC,7CM3,Trabajo Terminal I (Lab),TT        ,SA,NA,13:30-15:00,,,13:30-15:00,
+Reyes Bermejo Tlatoani de Jesús,FB,2CM1,Álgebra Lineal,CB        ,2003,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+Reyes Bermejo Tlatoani de Jesús,FB,2CM6,Álgebra Lineal,CB        ,1202,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+Reyes Vera Abdiel (int),CIC,5AM1,Minería de Datos,CD        ,4112,LCD1,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Reyes Vera Abdiel (int),CIC,5AV1,Procesos Estocásticos,CD        ,3209,LCD1,,15:00-16:30,13:30-16:30 L,,15:00-16:30
+Reyes Vera Abdiel (int),CIC,6AV1,Análisis de Series de Tiempo,CD        ,4110,LCD1,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Reyes Vera Abdiel (int),CIC,7AM1,Modelos Econométricos,CD        ,3211,NA,13:30-15:00,13:30-15:00,,,
+Reyes Vera Abdiel (int),CIC,7AM1,Modelos Econométricos (Lab),CD        ,3211,LCD1,,,,13:30-15:00 L,
+Ríos de la Torre Ignacio,FB,4CM2,Matemáticas Avanzadas para la Ingeniería,CB        ,1211,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Ríos de la Torre Ignacio,FB,4CM4,Matemáticas Avanzadas para la Ingeniería,CB        ,1213,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Rivera De la Rosa Mónica,ISC,4CM2,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1211,NA,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Rivera De la Rosa Mónica,ISC,7CM1,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,1014,LS3,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Rivera De la Rosa Mónica,ISC,7CM2,Desarrollo de Aplicaciones Móviles Nativas,ISW       ,2209,NA,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Rivera De la Rosa Mónica,ISC,7CM2,Trabajo Terminal I,TT        ,SA,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Rocha Bernabé María del Rosario,CIC,5CM3,Instrumentación y Control,FSE       ,1112,LE1,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Rocha Bernabé María del Rosario,CIC,5CV3,Instrumentación y Control,FSE       ,1214,LE1,13:30-15:00,13:30-15:00,,13:30-15:00 L,
+Rocha Bernabé María del Rosario,CIC,8CM1,Trabajo Terminal II,TT        ,SA,NA,,,10:30-12:00,,10:30-12:00
+Rodríguez Castillo Miguel Ángel,CIC,3BM2,Análisis y Diseño de Algoritmos,CC        ,3109,LP3,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Rodríguez Castillo Miguel Ángel,CIC,3CM6,Paradigmas de Programación,CC        ,1209,LP2,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Rodríguez Castillo Miguel Ángel,CIC,7CV1,Trabajo Terminal I (Lab),TT        ,SA,NA,,,13:30-15:00,,12:00-13:30
+Rodríguez Flores Eduardo,ISC,3CM4,Finanzas Empresariales,PETD      ,1114,LGP1,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Rodríguez Flores Eduardo,ISC,3CM5,Finanzas Empresariales,PETD      ,1112,LGP1,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Rodríguez Flores Eduardo,ISC,5CM5,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1114,LGP3,7:00-8:30,,,7:00-8:30 L,8:30-10:00 L
+Rodríguez Jordán Gabriel de Jesús (int),CIC,4AM1,Bases de Datos Avanzadas,CD        ,4108,LCD1,8:30-10:00,13:30-15:00 L,8:30-10:00,8:30-10:00,
+Rodríguez Jordán Gabriel de Jesús (int),CIC,4AM2,Bases de Datos Avanzadas,CD        ,4109,LCD1,12:00-13:30 L,12:00-13:30,12:00-13:30,12:00-13:30,
+Rodríguez Jordán Gabriel de Jesús (int),CIC,5AV1,Aprendizaje de Máquina e Inteligencia Artificial,IA        ,4108,LIA1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Rodríguez Jordán Gabriel de Jesús (int),CIC,5CV2,Compiladores,CC        ,1213,LP1,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Rodríguez Jordán Gabriel de Jesús (int),CIC,6CV4,Computer Graphics,CC        ,1113,LP1,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Rodríguez Ordaz Marisol,ISC,5CM11,Trabajo Terminal II (Lab),TT        ,SA,NA,,10:30-12:00,10:30-12:00,,
+Rodríguez Ordaz Marisol,ISC,5CM4,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1113,LGP1,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Rodríguez Ordaz Marisol,ISC,8CM1,Gestión Empresarial,PETD      ,2212,LGP1,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Rodríguez Ordaz Marisol,ISC,8CM2,Gestión Empresarial,PETD      ,2211,LGP1,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Rodríguez Ordaz Marisol ((int),ISC,5CM1,Formulación y Evaluación de Proyectos Informáticos,PETD      ,1214,LGP1,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Rodríguez Sarabia Tania,ISC,1AV1,Introducción a la Ciencia de Datos,CD        ,3010,NA,,13:30-15:00,,,13:30-15:00
+Rodríguez Sarabia Tania,ISC,3CM6,Bases de Datos,ISW       ,1209,LS4,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Rodríguez Sarabia Tania,ISC,3CV1,Bases de Datos,ISW       ,2007,LS4,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Rodríguez Sarabia Tania,ISC,6CM1,Non Relational Databases,ISW       ,1007,LS4,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Rodríguez Sarabia Tania,ISC,8CV2,Trabajo Terminal II,TT        ,SA,NA,15:00-16:30,,,15:00-16:30,
+Rodríguez Villarreal José Gregorio,FB,2BV1,Álgebra Lineal,CB        ,4008,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Rodríguez Villarreal José Gregorio,FB,2CV5,Álgebra Lineal,CB        ,2006,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+Rojas Mexicano Ismael,ISC,6CM3,Ingeniería de Software,ISW       ,1012,LS2,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Rojas Mexicano Ismael,ISC,6CM4,Ingeniería de Software,ISW       ,1013,LS1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Romero Herrera Rodolfo,CIC,1MCM1,Arquitectura de dispositivos Móviles,POSGR     ,2009,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Romero Herrera Rodolfo,CIC,3MCM1,Programación de Dispositivos de Hardware,POSGR     ,2112,NA,12:00-13:30,,12:00-13:30,12:00-13:30,
+Romero Herrera Rodolfo,CIC,6CM3,Inteligencia Artificial,IA        ,1012,LIA1,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Rosas Carrillo Ary Shared,ISC,5CV3,Análisis y Diseño de Sistemas,ISW       ,1214,LS1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Rosas Carrillo Ary Shared,ISC,5CV4,Análisis y Diseño de Sistemas,ISW       ,1111,LS1,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Rosas Trigueros Jorge Luis,CIC,6CV2,Genetic Algorithms,CC        ,1114,LP1,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Rosas Trigueros Jorge Luis,CIC,7CM3,Bioinformatics,CC        ,2210,LP3,,12:00-13:30 L,13:30-15:00,,12:00-13:30
+Rueda Meléndez José Marco Antonio,CIC,2AM1,Algoritmos y Estructuras de Datos,CC        ,4010,LP3,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Rueda Meléndez José Marco Antonio,CIC,2AM2,Algoritmos y Estructuras de Datos,CC        ,4011,LP3,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Rueda Meléndez José Marco Antonio,CIC,2CM3,Algoritmos y Estructuras de Datos,CC        ,2005,LP2,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Salas Ramirez Israel,ISC,4CV1,Sistemas Operativos,SDIST     ,1113,LS1,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Salas Ramirez Israel,ISC,4CV11,Trabajo Terminal I (Lab),TT        ,SA,NA,18:30-20:00,16:30-18:00,,,
+Salas Ramirez Israel,ISC,4CV3,Sistemas Operativos,SDIST     ,1114,LS1,,15:00-16:30,15:00-16:30 L,,15:00-16:30
+Salas Ramirez Israel,ISC,4CV4,Sistemas Operativos,SDIST     ,1112,LS1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Salazar Ramírez Manuel,POSGR,3CV1,Ecuaciones Diferenciales,CB        ,2007,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Salazar Ramírez Manuel,POSGR,3CV2,Ecuaciones Diferenciales,CB        ,1202,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Saldívar Almorejo María Magdalena,FII,1BV2,Comunicación Oral y Escrita,CS        ,3009,NA,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Saldívar Almorejo María Magdalena,FII,7SV1,Humanidades IV (ISISA),CS        ,2110,NA,16:30-18:00,,,16:30-18:00,
+Saldívar Almorejo María Magdalena,FII,8BM1,Trabajo Terminal II (Lab),TT        ,SA,NA,13:30-15:00,,,13:30-15:00,
+Salinas Callejas María de Lourdes (int),ISC,6CV1,Ingeniería de Software,ISW       ,1113,LS3,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Salinas Callejas María de Lourdes (int),ISC,6CV2,Ingeniería de Software,ISW       ,1114,LS3,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Salinas Hernández Encarnación,FB,1CM3,Cálculo,CB        ,2204,LMAT,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Salinas Hernández Encarnación,FB,1CM4,Cálculo,CB        ,2205,LMAT,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Salinas Lugo Sergio,ISC,3BM1,Bases de Datos,ISW       ,3108,LS1,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Salinas Lugo Sergio,ISC,3BM2,Bases de Datos,ISW       ,3109,LS2,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Salinas Rosales Moisés,SUB ACAD,6AV1,Ciberseguridad,SDIST     ,4111,LS4,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Sánchez  Quintanilla Gilberto,ISC,5CM2,Redes de Computadoras,SDIST     ,1111,LR,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Sánchez  Quintanilla Gilberto,ISC,5CM3,Redes de Computadoras,SDIST     ,1112,LR,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Sánchez Arroyo José Emilio,FII,2CM4,Ingeniería Ética y Sociedad,CS        ,2006,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+Sánchez Arroyo José Emilio,FII,2CM5,Ingeniería Ética y Sociedad,CS        ,2007,NA,8:30-10:00,,8:30-10:00,8:30-10:00,
+Sánchez Brito Miguel (int),CIC,3AV1,Análisis y Diseño de Algoritmos,CC        ,3110,LCD1,20:00-21:30,,20:00-21:30,20:00-21:30 L,
+Sánchez Brito Miguel (int),CIC,3AV1,Programación para la Ciencia de Datos,CD        ,3110,LCD1,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Sánchez Brito Miguel (int),CIC,3CV2,Análisis y Diseño de Algoritmos,CC        ,1202,LP3,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Sánchez Brito Miguel (int),CIC,5CV1,Compiladores,CC        ,1212,LP1,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Sánchez Brito Miguel (int),CIC,7CV1,Big Data,CD        ,1012,LP2,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Sánchez García Luz María,CIC,3AM1,Análisis y Diseño de Algoritmos,CC        ,3110,LP3,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Sánchez García Luz María,CIC,3BM1,Análisis y Diseño de Algoritmos,CC        ,3108,LP3,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Sánchez García Luz María,CIC,3CM6,Análisis y Diseño de Algoritmos,CC        ,1209,LP3,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Sánchez Juárez José,CIC,3BV1,Paradigmas de Programación,CC        ,3108,LP3,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Sánchez Juárez José,CIC,3CV3,Paradigmas de Programación,CC        ,1203,LP3,,15:00-16:30,15:00-16:30,,15:00-16:30 L
+Sanchez Lopez Luis Tadeo,FB,1CV2,Análisis Vectorial,CB        ,2203,LMA,,15:00-16:30 L,15:00-16:30,,15:00-16:30
+Sanchez Lopez Luis Tadeo,FB,3AV1,Probabilidad,CB        ,3110,LMAT,15:00-16:30,13:30-15:00,,15:00-16:30 L,16:30-18:00
+Sánchez Manilla Angeles Alejandra (Int),CIC,4AM1,Desarrollo de Aplicaciones para Análisis de Datos,CD        ,4108,LIA1,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Sánchez Moreno Adriana de la Paz,FII,1CM6,Comunicación Oral y Escrita,CS        ,2207,NA,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Sánchez Moreno Adriana de la Paz,FII,2CM1,Ingeniería Ética y Sociedad,CS        ,2003,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Sánchez Palacios María Susana,FB,1CM4,Matemáticas Discretas,CB        ,2205,LMD,8:30-10:00,12:00-13:30,8:30-10:00,8:30-10:00 L,
+Sánchez Palacios María Susana,FB,1CM7,Matemáticas Discretas,CB        ,2002,LMD,7:00-8:30,,7:00-8:30 L,7:00-8:30,8:30-10:00
+Sánchez Vargas Perla Rebeca,FB,1AM2,Cálculo,CB        ,3011,LMAT,10:30-12:00,8:30-10:00,,10:30-12:00 L,
+Sánchez Vargas Perla Rebeca,FB,1AV2,Matemáticas Discretas,CB        ,3011,LMD,13:30-15:00 L,15:00-16:30,15:00-16:30,,15:00-16:30
+Sánchez Vargas Perla Rebeca,FB,1BV1,Matemáticas Discretas,CB        ,3008,LMD,15:00-16:30,13:30-15:00 L,,15:00-16:30,16:30-18:00
+Sánchez Vargas Perla Rebeca,FB,2CM1,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,,12:00-13:30,
+Sánchez Vargas Perla Rebeca,FB,2CM6,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,10:30-12:00,,,
+Sánchez Vargas Perla Rebeca (Int),FB,1BM1,Cálculo,CB        ,3008,LMAT,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Sánchez Vélez Ricardo,FB,2AM1,Álgebra Lineal,CB        ,4010,LMD,8:30-10:00 L,,8:30-10:00,8:30-10:00,
+Sánchez Vélez Ricardo,FB,2CM6,Cálculo Aplicado,CB        ,1202,LMA,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Santander Baños Fredy (int),CIC,6CM2,Inteligencia Artificial,IA        ,1011,LIA1,8:30-10:00,,8:30-10:00,08:30-10:00 L,
+Santiago Valentín Eric,FB,1CV3,Matemáticas Discretas,CB        ,2204,LMD,,15:00-16:30 L,15:00-16:30,13:30-15:00,15:00-16:30
+Santillán Luna Raúl,CIC,1CV5,Fundamentos de Programación,CC        ,2206,LP1,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Santillán Luna Raúl,CIC,3CV2,Circuitos Eléctricos,FSE       ,1202,LE1,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Santillán Luna Raúl,CIC,3CV3,Circuitos Eléctricos,FSE       ,1203,NA,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Santillán Luna Raúl,CIC,3CV6,Circuitos Eléctricos,FSE       ,1206,LE1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Serrano Talamantes José Felix (inv),CIC,5BM1,Visión Artificial,IA        ,4110,LIA1,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Serrano Talamantes José Felix (inv),CIC,5BM2,Visión Artificial,IA        ,4111,LIA1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Silva Martínez Jorge Javier,FB,3CM4,Ecuaciones Diferenciales,CB        ,1206,NA,,12:00-13:30,13:30-15:00,,12:00-13:30
+Silva Martínez Jorge Javier,FB,3CV6,Ecuaciones Diferenciales,CB        ,1206,NA,,15:00-16:30,15:00-16:30,,15:00-16:30
+Silva Sánchez Carlos,ISC,7BV1,Formulación y Evaluación de Proyectos Informáticos,PETD      ,4111,LGP2,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+SIN ASIGNAR      ,ND,1AM1,Cálculo (Lab),CB        ,SA,LMAT,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,1AM1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1AM1,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,1AM1,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,1AM2,Cálculo (Lab),CB        ,SA,LMAT,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,1AM2,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,,,,
+SIN ASIGNAR      ,ND,1AM2,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,1AM2,Matemáticas Discretas (Lab),CB        ,SA,LMD,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,1AM3,Cálculo (Lab),CB        ,SA,NA,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,1AV1,Cálculo (Lab),CB        ,SA,LMAT,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,1AV1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1AV1,Fundamentos de Programación (Lab),CC        ,SA,LCD1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1AV1,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,1AV2,Cálculo (Lab),CB        ,SA,LMAT,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1AV2,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1AV2,Fundamentos de Programación (Lab),CC        ,SA,LCD1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,1AV2,Matemáticas Discretas (Lab),CB        ,SA,LMD,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,1BM1,Cálculo (Lab),CB        ,SA,LMAT,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,1BM1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1BM1,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,1BM1,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,1BM1,Matemáticas Discretas (Lab),CB        ,SA,LMD,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,1BM2,Cálculo (Lab),CB        ,SA,LMAT,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,1BM2,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,1BM2,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,1BM2,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,1BM2,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,1BV1,Cálculo (Lab),CB        ,SA,LMAT,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,1BV1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,1BV1,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,1BV1,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1BV1,Matemáticas Discretas (Lab),CB        ,SA,LMD,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,1BV1,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1BV2,Cálculo (Lab),CB        ,SA,LMAT,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,1BV2,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1BV2,Fundamentos de Programación (Lab),CC        ,SA,LP1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,1BV2,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,1BV2,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,1BV2,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CM1,Análisis Vectorial (Lab),CB        ,SA,LMA,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,1CM1,Cálculo (Lab),CB        ,SA,LMAT,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,1CM1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,1CM1,Fundamentos de Programación (Lab),CC        ,SA,LP1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,1CM2,Análisis Vectorial (Lab),CB        ,SA,LMA,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,1CM2,Cálculo (Lab),CB        ,SA,LMAT,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,1CM2,Comunicación Oral y Escrita (Lab),CS        ,SA,LSOC,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,1CM2,Fundamentos de Programación (Lab),CC        ,SA,LP1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,1CM2,Matemáticas Discretas (Lab),CB        ,SA,LMD,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,1CM3,Análisis Vectorial (Lab),CB        ,SA,LMA,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,1CM3,Cálculo (Lab),CB        ,SA,LMAT,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,1CM3,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,1CM3,Fundamentos de Programación (Lab),CC        ,SA,LP2,,,,,08:30-10:00
+SIN ASIGNAR      ,ND,1CM3,Matemáticas Discretas (Lab),CB        ,SA,LMD,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1CM4,Análisis Vectorial (Lab),CB        ,SA,LMA,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,1CM4,Cálculo (Lab),CB        ,SA,LMAT,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,1CM4,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,1CM4,Fundamentos de Programación (Lab),CC        ,SA,LP1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1CM4,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,1CM5,Análisis Vectorial (Lab),CB        ,SA,LMA,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,1CM5,Cálculo (Lab),CB        ,SA,LMAT,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,1CM5,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1CM5,Fundamentos de Programación (Lab),CC        ,SA,LP1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,1CM5,Matemáticas Discretas (Lab),CB        ,SA,LMD,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,1CM6,Análisis Vectorial (Lab),CB        ,SA,LMA,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,1CM6,Cálculo (Lab),CB        ,SA,LMAT,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,1CM6,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,1CM6,Fundamentos de Programación (Lab),CC        ,SA,LP3,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,1CM6,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,1CM7,Análisis Vectorial (Lab),CB        ,SA,LMA,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,1CM7,Cálculo (Lab),CB        ,SA,LMAT,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,1CM7,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,1CM7,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,1CM8,Análisis Vectorial (Lab),CB        ,SA,NA,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,1CM8,Cálculo (Lab),CB        ,SA,NA,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,1CV1,Análisis Vectorial (Lab),CB        ,SA,LMA,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CV1,Cálculo (Lab),CB        ,SA,LMAT,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,1CV1,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,1CV1,Fundamentos de Programación (Lab),CC        ,SA,LP1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1CV1,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,1CV2,Análisis Vectorial (Lab),CB        ,SA,LMA,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1CV2,Cálculo (Lab),CB        ,SA,LMAT,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,1CV2,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1CV2,Fundamentos de Programación (Lab),CC        ,SA,LP1,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,1CV2,Matemáticas Discretas (Lab),CB        ,SA,LMD,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CV3,Análisis Vectorial (Lab),CB        ,SA,LMA,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,1CV3,Cálculo (Lab),CB        ,SA,LMAT,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,1CV3,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,1CV3,Fundamentos de Programación (Lab),CC        ,SA,LP1,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CV3,Matemáticas Discretas (Lab),CB        ,SA,LMD,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1CV4,Análisis Vectorial (Lab),CB        ,SA,LMA,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,1CV4,Cálculo (Lab),CB        ,SA,LMAT,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,1CV4,Comunicación Oral y Escrita (Lab),CS        ,SA,NA,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CV4,Fundamentos de Programación (Lab),CC        ,SA,LP1,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1CV4,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,1CV5,Análisis Vectorial (Lab),CB        ,SA,LMA,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,1CV5,Cálculo (Lab),CB        ,SA,LMAT,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,1CV5,Comunicación Oral y Escrita (Lab),CS        ,L Soc,NA,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1CV5,Fundamentos de Programación (Lab),CC        ,SA,LP1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,1CV5,Matemáticas Discretas (Lab),CB        ,SA,LMD,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,1CV6,Análisis Vectorial (Lab),CB        ,SA,LMA,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,1CV6,Cálculo (Lab),CB        ,SA,LMAT,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,1CV6,Matemáticas Discretas (Lab),CB        ,SA,LMD,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,2AM1,Álgebra Lineal (Lab),CB        ,SA,LMD,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,2AM1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP3,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,2AM1,Cálculo Multivariable (Lab),CB        ,SA,LF,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,2AM1,Fundamentos Económicos (Lab),PETD      ,SA,LGP3,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,2AM2,Álgebra Lineal (Lab),CB        ,SA,LMD,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,2AM2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP3,,07:00-08:30,,,
+SIN ASIGNAR      ,ND,2AM2,Cálculo Multivariable (Lab),CB        ,SA,LF,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,2AM2,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,2AV1,Álgebra Lineal (Lab),CB        ,SA,NA,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,2AV1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP3,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,2AV1,Cálculo Multivariable (Lab),CB        ,SA,LF,,20:00-21:30,,,
+SIN ASIGNAR      ,ND,2AV1,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,2AV2,Álgebra Lineal (Lab),CB        ,SA,NA,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,2AV2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,2AV2,Cálculo Multivariable (Lab),CB        ,SA,LF,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,2BM1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,2BM1,Cálculo Multivariable (Lab),CB        ,SA,LF,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,2BM1,Finanzas Empresariales (Lab),PETD      ,SA,NA,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,2BM1,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,2BM2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,2BM2,Cálculo Multivariable (Lab),CB        ,SA,LF,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,2BM2,Finanzas Empresariales (Lab),PETD      ,SA,NA,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,2BM2,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,2BV1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LIA1,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,2BV1,Cálculo Multivariable (Lab),CB        ,SA,LF,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,2BV1,Finanzas Empresariales (Lab),PETD      ,SA,NA,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,2BV1,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD1,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,2BV2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,2BV2,Cálculo Multivariable (Lab),CB        ,SA,LF,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,2BV2,Finanzas Empresariales (Lab),PETD      ,SA,NA,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,2BV2,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,2CM1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,2CM1,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,2CM1,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,2CM2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,2CM2,Cálculo Aplicado (Lab),CB        ,SA,LMA,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,2CM2,Fundamentos Económicos (Lab),PETD      ,SA,LGP2,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,2CM2,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,2CM3,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,2CM3,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,2CM3,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,2CM3,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,2CM4,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,2CM4,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,2CM4,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,2CM4,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,2CM5,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,2CM5,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,2CM5,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,2CM5,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,2CM6,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,2CM6,Cálculo Aplicado (Lab),CB        ,SA,LMA,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,2CV1,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,2CV1,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,2CV1,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,2CV1,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,2CV2,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,2CV2,Cálculo Aplicado (Lab),CB        ,SA,LMA,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,2CV2,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,2CV2,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,2CV3,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,2CV3,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,2CV3,Fundamentos Económicos (Lab),PETD      ,SA,LGP2,,,20:00-21:30,,
+SIN ASIGNAR      ,ND,2CV3,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,2CV4,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,2CV4,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,,20:00-21:30,
+SIN ASIGNAR      ,ND,2CV4,Fundamentos Económicos (Lab),PETD      ,SA,LGP1,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,2CV4,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,2CV5,Algoritmos y Estructuras de Datos (Lab),CC        ,SA,LP2,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,2CV5,Cálculo Aplicado (Lab),CB        ,SA,LMA,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,2CV5,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,3AM1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,3AM1,Bases de Datos (Lab),ISW       ,SA,NA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,3AM1,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,3AM1,Métodos Numéricos (Lab),CC        ,SA,LCD1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,3AM1,Probabilidad (Lab),CB        ,SA,LMA,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,3AM1,Programación para la Ciencia de Datos (Lab),CD        ,SA,LCD1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,3AM2,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP2,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,3AM2,Bases de Datos (Lab),ISW       ,SA,LS3,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,3AM2,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,3AM2,Métodos Numéricos (Lab),CC        ,SA,LCD1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3AM2,Probabilidad (Lab),CB        ,SA,NA,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,3AM2,Programación para la Ciencia de Datos (Lab),CD        ,SA,LCD1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,3AV1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LCD1,,,,20:00-21:30,
+SIN ASIGNAR      ,ND,3AV1,Bases de Datos (Lab),ISW       ,SA,LS3,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,3AV1,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,3AV1,Métodos Numéricos (Lab),CC        ,SA,LP1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,3AV1,Probabilidad (Lab),CB        ,SA,LMAT,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3AV1,Programación para la Ciencia de Datos (Lab),CD        ,SA,LCD1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,3BM1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,3BM1,Bases de Datos (Lab),ISW       ,SA,LS1,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,3BM1,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,3BM1,Liderazgo Personal (Lab),CS        ,SA,NA,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,3BM1,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,3BM2,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,3BM2,Bases de Datos (Lab),ISW       ,SA,LS2,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,3BM2,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,3BM2,Liderazgo Personal (Lab),CS        ,SA,NA,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,3BM2,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,3BV1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,3BV1,Bases de Datos (Lab),ISW       ,SA,LS2,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,3BV1,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3BV1,Liderazgo Personal (Lab),CS        ,SA,NA,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,3BV1,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,3BV2,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP2,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3BV2,Bases de Datos (Lab),ISW       ,SA,LS1,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,3BV2,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,3BV2,Liderazgo Personal (Lab),CS        ,SA,NA,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,3BV2,Paradigmas de Programación (Lab),CC        ,SA,LP3,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,3CM1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,3CM1,Bases de Datos (Lab),ISW       ,SA,LS1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,3CM1,Finanzas Empresariales (Lab),PETD      ,SA,LGP2,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,3CM1,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,3CM1,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,3CM11,Economic Engineering (Lab),CB        ,SA,NA,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,3CM11,Introducción a los Microcontroladores (Lab),SDIG      ,SA,LD2,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,3CM11,IT Governance (Lab),PETD      ,SA,LS4,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3CM11,S: E. for Mobile Devices (Lab),ISW       ,SA,LS4,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,3CM12,Teoría de Comunicaciones y Señales (Lab),SDIST     ,SA,LD1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3CM2,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,3CM2,Bases de Datos (Lab),ISW       ,SA,LS1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,3CM2,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,3CM2,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,3CM2,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,3CM3,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,3CM3,Bases de Datos (Lab),ISW       ,SA,LS1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,3CM3,Finanzas Empresariales,PETD      ,1205,LGP2,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+SIN ASIGNAR      ,ND,3CM3,Finanzas Empresariales (Lab),PETD      ,SA,LGP2,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,3CM3,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,3CM3,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,3CM4,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3CM4,Bases de Datos (Lab),ISW       ,SA,LS1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,3CM4,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,3CM4,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,3CM4,Paradigmas de Programación (Lab),CC        ,SA,LIA1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,3CM5,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,3CM5,Bases de Datos (Lab),ISW       ,SA,LS1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,3CM5,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,3CM5,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,3CM5,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,3CM5,Paradigmas de Programación (Lab),CC        ,SA,LP1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3CM6,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,3CM6,Bases de Datos (Lab),ISW       ,SA,LS4,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,3CM6,Finanzas Empresariales (Lab),PETD      ,SA,LGP2,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,3CM6,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,3CM6,Paradigmas de Programación (Lab),CC        ,SA,LP2,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,3CV1,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3CV1,Bases de Datos (Lab),ISW       ,SA,LS4,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,3CV1,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,3CV1,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,3CV1,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,3CV1,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,3CV11,Teoría de Comunicaciones y Señales (Lab),SDIST     ,SA,LS4,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,3CV2,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,3CV2,Bases de Datos (Lab),ISW       ,SA,LS1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,3CV2,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,3CV2,Finanzas Empresariales (Lab),PETD      ,SA,LGP2,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,3CV2,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,,,20:00-21:30,,
+SIN ASIGNAR      ,ND,3CV2,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,3CV3,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,3CV3,Bases de Datos (Lab),ISW       ,SA,LS2,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,3CV3,Circuitos Eléctricos (Lab),FSE       ,SA,NA,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,3CV3,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3CV3,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,3CV3,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,3CV4,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,3CV4,Bases de Datos (Lab),ISW       ,SA,LS1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,3CV4,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,3CV4,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,3CV4,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,3CV4,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,3CV5,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,3CV5,Bases de Datos (Lab),ISW       ,SA,LS1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,3CV5,Finanzas Empresariales (Lab),PETD      ,SA,LGP1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,3CV5,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,3CV5,Paradigmas de Programación (Lab),CC        ,SA,LP3,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,3CV6,Análisis y Diseño de Algoritmos (Lab),CC        ,SA,LP3,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,3CV6,Bases de Datos (Lab),ISW       ,SA,LS1,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,3CV6,Circuitos Eléctricos (Lab),FSE       ,SA,LE1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,3CV6,Fundamentos de Diseño Digital (Lab),SDIG      ,SA,LD2,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,3CV6,Paradigmas de Programación (Lab),CC        ,SA,LP2,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,4AM1,Bases de Datos Avanzadas (Lab),CD        ,SA,LCD1,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,4AM1,Cómputo de Alto Desempeño (Lab),SDIST     ,SA,LS2,12:00-13:30,12:00-13:30,,,
+SIN ASIGNAR      ,ND,4AM1,Desarrollo de Aplicaciones para Análisis de Datos (Lab),CD        ,SA,LIA1,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,4AM1,Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS4,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,4AM1,Estadística (Lab),CB        ,SA,LMA,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,4AM1,Liderazgo Personal (Lab),CS        ,SA,NA,,,,,
+SIN ASIGNAR      ,ND,4AM2,Bases de Datos Avanzadas (Lab),CD        ,SA,LCD1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,4AM2,Cómputo de Alto Desempeño (Lab),SDIST     ,SA,LS2,10:30-12:00,,,10:30-12:00,
+SIN ASIGNAR      ,ND,4AM2,Desarrollo de Aplicaciones para Análisis de Datos (Lab),CD        ,SA,LCD1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,4AM2,Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS4,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,4AM2,Estadística (Lab),CB        ,SA,LMA,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,4AM2,Liderazgo Personal (Lab),CS        ,SA,LSOC,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,4AV1,Bases de Datos Avanzadas (Lab),CD        ,SA,LCD1,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,4AV1,Cómputo de Alto Desempeño (Lab),SDIST     ,SA,LS2,,,16:30-18:00,16:30-18:00,
+SIN ASIGNAR      ,ND,4AV1,Desarrollo de Aplicaciones para Análisis de Datos (Lab),CD        ,SA,LCD1,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,4AV1,Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS4,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,4AV1,Estadística (Lab),CB        ,SA,LMA,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,4AV1,Liderazgo Personal (Lab),CS        ,SA,NA,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,4BM1,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS2,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,4BM1,Fundamentos de Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,4BM1,Procesamiento Digital de Imágenes (Lab),IA        ,SA,LIA2,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,4BM1,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,NA,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,4BM2,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS3,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,4BM2,Fundamentos de Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,4BM2,Procesamiento Digital de Imágenes (Lab),IA        ,SA,LIA1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,4BM2,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,4BV1,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS2,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,4BV1,Fundamentos de Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,4BV1,Procesamiento Digital de Imágenes (Lab),IA        ,SA,LIA1,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,4BV1,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,4CM1,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,4CM1,Electrónica Analógica (Lab),FSE       ,SA,LE1,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,4CM1,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,4CM1,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,4CM1,Teoría de la Computación (Lab),CC        ,SA,LP1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,4CM11,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,4CM11,Desarrollo de Sistemas Distribudios (Lab),SDIST     ,SA,LS4,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,4CM11,Gestión Empresarial (Lab),PETD      ,SA,NA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,4CM12,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,4CM12,Desarrollo de Sistemas Distribudios (Lab),SDIST     ,SA,LS3,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,4CM2,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,4CM2,Electrónica Analógica (Lab),FSE       ,SA,LE1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,4CM2,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,4CM2,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,4CM2,Teoría de la Computación (Lab),CC        ,SA,LP2,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,4CM3,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,4CM3,Electrónica Analógica (Lab),FSE       ,SA,LE1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,4CM3,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,4CM3,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,4CM3,Teoría de la Computación (Lab),CC        ,SA,LP2,,,,07:00-08:30,
+SIN ASIGNAR      ,ND,4CM4,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,4CM4,Electrónica Analógica (Lab),FSE       ,SA,LE1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,4CM4,Sistemas Operativos (Lab),SDIST     ,SA,LS1,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,4CM4,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,4CM4,Teoría de la Computación (Lab),CC        ,SA,LP2,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,4CV1,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,4CV1,Electrónica Analógica (Lab),FSE       ,SA,LE1,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,4CV1,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,4CV1,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS3,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,4CV1,Teoría de la Computación (Lab),CC        ,SA,LP3,,,20:00-21:30,,
+SIN ASIGNAR      ,ND,4CV11,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,4CV11,Desarrollo de Sistemas Distribudios (Lab),SDIST     ,SA,LS3,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,4CV11,Liderazgo y Desarrollo Profesional (Lab),CS        ,SA,NA,,,,,
+SIN ASIGNAR      ,ND,4CV2,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,4CV2,Electrónica Analógica (Lab),FSE       ,SA,LE1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,4CV2,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,20:00-21:30,,
+SIN ASIGNAR      ,ND,4CV2,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,4CV2,Teoría de la Computación (Lab),CC        ,SA,LP2,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,4CV3,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,4CV3,Electrónica Analógica (Lab),FSE       ,SA,LE1,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,4CV3,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,4CV3,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,4CV3,Teoría de la Computación (Lab),CC        ,SA,LP2,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,4CV4,Diseño de Sistemas Digitales (Lab),SDIG      ,SA,LD2,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,4CV4,Electrónica Analógica (Lab),FSE       ,SA,LE1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,4CV4,Sistemas Operativos (Lab),SDIST     ,SA,LS1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,4CV4,Tecnologías para el Desarrollo de Aplicaciones Web (Lab),ISW       ,SA,LS2,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,4CV4,Teoría de la Computación (Lab),CC        ,SA,LP2,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,5AM1,Analítica y Visualización de Datos (Lab),CD        ,SA,LCD1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,5AM1,Aprendizaje de Máquina e Inteligencia Artificial (Lab),IA        ,SA,LIA1,7:00-08:30,,,,
+SIN ASIGNAR      ,ND,5AM1,Matemáticas Avanzadas para la Ciencia de Datos (Lab),CD        ,SA,LCD1,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,5AM1,Metodología de la Investigación y Divulgación Científica (Lab),CS        ,SA,NA,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,5AM1,Minería de Datos (Lab),CD        ,SA,LCD1,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,5AM1,Procesos Estocásticos (Lab),CD        ,SA,LCD1,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,5AV1,Analítica y Visualización de Datos (Lab),CD        ,SA,LCD1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,5AV1,Aprendizaje de Máquina e Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,5AV1,Matemáticas Avanzadas para la Ciencia de Datos (Lab),CD        ,SA,LP1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,5AV1,Metodología de la Investigación y Divulgación Científica (Lab),CS        ,SA,NA,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,5AV1,Minería de Datos (Lab),CD        ,SA,LCD1,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,5AV1,Procesos Estocásticos (Lab),CD        ,SA,LCD1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,5BM1,Algoritmos Bioinspirados (Lab),CC        ,SA,LIA1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,5BM1,Aprendizaje de Máquina,IA        ,SA,LIA2,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,5BM1,Procesamiento de Señales (Lab),SDIG      ,SA,LS1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,5BM1,Tecnologías de Lenguaje Natural (Lab),IA        ,SA,LIA1,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,5BM1,Teoría de la Computación (Lab),CC        ,SA,LIA1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,5BM1,Visión Artificial (Lab),IA        ,SA,LIA1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,5BM2,Algoritmos Bioinspirados (Lab),CC        ,SA,LIA2,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,5BM2,Aprendizaje de Máquina,IA        ,SA,LIA1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,5BM2,Procesamiento de Señales (Lab),SDIG      ,SA,LS2,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,5BM2,Tecnologías de Lenguaje Natural (Lab),IA        ,SA,LIA1,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,5BM2,Teoría de la Computación (Lab),CC        ,SA,LIA1,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,5BM2,Visión Artificial (Lab),IA        ,SA,LIA1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,5BV1,Algoritmos Bioinspirados (Lab),CC        ,SA,LIA1,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,5BV1,Aprendizaje de Máquina,IA        ,SA,LIA1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,5BV1,Procesamiento de Señales (Lab),SDIG      ,SA,LD2,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,5BV1,Tecnologías de Lenguaje Natural (Lab),IA        ,SA,LIA1,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,5BV1,Teoría de la Computación (Lab),CC        ,SA,LP1,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,5BV1,Visión Artificial (Lab),IA        ,SA,LP3,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,5CM1,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,5CM1,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,5CM1,Compiladores (Lab),CC        ,SA,LP1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,5CM1,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP1,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,5CM1,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,5CM1,Redes de Computadoras (Lab),SDIST     ,SA,LR,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,5CM2,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,5CM2,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,5CM2,Compiladores (Lab),CC        ,SA,LP1,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,5CM2,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,5CM2,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,5CM2,Redes de Computadoras (Lab),SDIST     ,SA,LR,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,5CM3,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,5CM3,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,5CM3,Compiladores (Lab),CC        ,SA,LP1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,5CM3,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,5CM3,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,5CM3,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,5CM3,Redes de Computadoras (Lab),SDIST     ,SA,LR,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,5CM4,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,NA,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,5CM4,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,5CM4,Compiladores (Lab),CC        ,SA,LP1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,5CM4,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP1,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,5CM4,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,5CM4,Redes de Computadoras (Lab),SDIST     ,SA,LR,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,5CM5,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,5CM5,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,5CM5,Compiladores (Lab),CC        ,SA,LP1,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,5CM5,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP3,,,,7:00-8:30,8:30-10:00
+SIN ASIGNAR      ,ND,5CM5,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,5CM5,Redes de Computadoras (Lab),SDIST     ,SA,LR,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,5CV1,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,5CV1,Compiladores (Lab),CC        ,SA,LP1,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,5CV1,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LS4,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,5CV1,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,5CV1,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,5CV1,Redes de Computadoras (Lab),SDIST     ,SA,LR,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,5CV2,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,5CV2,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,5CV2,Compiladores (Lab),CC        ,SA,LP1,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,5CV2,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LS3,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,5CV2,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,,20:00-21:30,
+SIN ASIGNAR      ,ND,5CV2,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,5CV2,Redes de Computadoras (Lab),SDIST     ,SA,LR,15:00-16:30,,,,
+SIN ASIGNAR      ,ND,5CV3,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,5CV3,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,5CV3,Compiladores (Lab),CC        ,SA,LP2,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,5CV3,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP1,20:00-21:30,,,20:00-21:30,
+SIN ASIGNAR      ,ND,5CV3,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,5CV3,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,5CV3,Redes de Computadoras (Lab),SDIST     ,SA,LR,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,5CV4,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,5CV4,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,5CV4,Compiladores (Lab),CC        ,SA,LP1,,,,20:00-21:30,
+SIN ASIGNAR      ,ND,5CV4,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,5CV4,Procesamiento Digital de Señales (Lab),SDIG      ,SA,LD1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,5CV4,Redes de Computadoras (Lab),SDIST     ,SA,LR,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,5CV5,Análisis y Diseño de Sistemas (Lab),ISW       ,SA,LS1,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,5CV5,Compiladores (Lab),CC        ,SA,LP2,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,5CV5,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP2,,,16:30-18:00,16:30-18:00,
+SIN ASIGNAR      ,ND,5CV5,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,5CV5,Redes de Computadoras (Lab),SDIST     ,SA,LR,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,5CV6,Arquitectura de Computadoras (Lab),SDIG      ,SA,LD1,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,6AM1,Análisis de Series de Tiempo (Lab),CD        ,SA,LCD1,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,6AM1,Analítica Avanzada de Datos (Lab),CD        ,SA,LCD1,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,6AM1,Estadística Avanzada (Lab),CD        ,SA,LIA2,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,6AM1,Modelado Predictivo (Lab),CD        ,SA,LCD1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,6AM1,Procesamiento de Lenguaje Natural (Lab),IA        ,SA,LCD1,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,6AM1,Temas Selectos de Inteligencia Artificial (Lab),IA        ,SA,LP2,,08:30-10:00,,,
+SIN ASIGNAR      ,ND,6AV1,Análisis de Series de Tiempo (Lab),CD        ,SA,LCD1,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,6AV1,Analítica Avanzada de Datos (Lab),CD        ,SA,LCD1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,6AV1,Ciberseguridad (Lab),SDIST     ,SA,LS4,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,6AV1,Modelado Predictivo (Lab),CD        ,SA,LCD1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,6AV1,Procesamiento de Lenguaje Natural (Lab),IA        ,SA,LCD1,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,6BM1,Aplicaciones de Inteligencia Artificial en Sistemas Embebidos (Lab),SDIG      ,SA,LD2,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,6BM1,Aplicaciones de Lenguaje Natural (Lab),IA        ,SA,LIA2,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,6BM1,Cómputo Paralelo (Lab),SDIST     ,SA,LS3,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,6BM1,Ingeniería de Software para Sistemas Inteligentes (Lab),ISW       ,SA,LS4,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,6BM1,Metodología de la Investigación y Divulgación Científica (Lab),CS        ,SA,NA,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,6BM1,Redes Neuronales y Aprendizaje Profundo (Lab),IA        ,SA,LIA1,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,6BM2,Cómputo Paralelo (Lab),SDIST     ,SA,LS3,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,6BM2,Ingeniería de Software para Sistemas Inteligentes (Lab),ISW       ,SA,LS2,,,7:00-8:30,,
+SIN ASIGNAR      ,ND,6BM2,Metodología de la Investigación y Divulgación Científica (Lab),CS        ,L Soc,NA,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,6BM2,Minería de Datos (Lab),CD        ,SA,LIA2,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,6BM2,Redes Neuronales y Aprendizaje Profundo (Lab),IA        ,SA,LIA2,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,6BM2,Temas Selectos de Inteligencia Artificial (Lab),IA        ,SA,LIA2,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,6BV1,Cómputo Paralelo (Lab),SDIST     ,SA,LS3,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,6BV1,Ingeniería de Software para Sistemas Inteligentes (Lab),ISW       ,SA,LS4,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,6BV1,Metodología de la Investigación y Divulgación Científica (Lab),CS        ,SA,NA,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,6BV1,Redes Neuronales y Aprendizaje Profundo (Lab),IA        ,SA,LIA1,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6BV1,Técnicas de Programación para Robots Móviles (Lab),IA        ,SA,LIA2,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,6BV1,Tópicos Selectos de Algoritmos Bioinspirados (Lab),CC        ,SA,LP2,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,6CM1,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LS3,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,6CM1,Ingeniería de Software (Lab),ISW       ,SA,LS3,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6CM1,Inteligencia Artificial (Lab),IA        ,SA,LIA2,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,6CM1,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP1,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,6CM1,Non Relational Databases (Lab),ISW       ,SA,LS4,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,6CM1,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,6CM1,Software Quality Assurance and Desing Patterns (Lab),ISW       ,SA,LGP2,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,6CM2,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LS3,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,6CM2,Ingeniería de Software (Lab),ISW       ,SA,LS1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,6CM2,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,6CM2,Introduction to Cryptography (Lab),CC        ,SA,LP1,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,6CM2,Machine Learning (Lab),IA        ,SA,LIA1,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,6CM2,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP2,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,6CM2,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,,7:00-8:30,
+SIN ASIGNAR      ,ND,6CM3,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LR,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,6CM3,Embedded Systems (Lab),SDIG      ,SA,LS4,7:00-8:30,,,,
+SIN ASIGNAR      ,ND,6CM3,Ingeniería de Software (Lab),ISW       ,SA,LS2,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,6CM3,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,6CM3,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP2,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,6CM3,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,6CM4,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LR,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,6CM4,High Technology Enterprise Management (Lab),PETD      ,SA,LS4,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,6CM4,Ingeniería de Software (Lab),ISW       ,SA,LS1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,6CM4,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,6CM4,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,6CM5,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LR,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6CM5,Ingeniería de Software (Lab),ISW       ,SA,LS4,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,6CM5,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,6CM5,Introduction to Cryptography (Lab),CC        ,SA,LIA2,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,6CM5,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP2,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,6CM5,Sistemas en Chip (Lab),SDIG      ,SA,LIA2,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,6CV1,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LR,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,6CV1,Computer Security (Lab),SDIST     ,SA,LS2,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,6CV1,Ingeniería de Software (Lab),ISW       ,SA,LS3,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,6CV1,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,6CV1,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP2,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,6CV1,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6CV2,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LR,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,6CV2,Genetic Algorithms (Lab),CC        ,SA,LP1,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6CV2,Ingeniería de Software (Lab),ISW       ,SA,LS3,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,6CV2,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,6CV2,Machine Learning (Lab),IA        ,SA,LIA1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,6CV2,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP1,,,,,13:30-15:00
+SIN ASIGNAR      ,ND,6CV2,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,6CV3,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,NA,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,6CV3,Ingeniería de Software (Lab),ISW       ,SA,LS3,,18:30-20:00,,,
+SIN ASIGNAR      ,ND,6CV3,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,6CV3,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP1,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,6CV3,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,20:00-21:30,,
+SIN ASIGNAR      ,ND,6CV3,Statistical Tools for Data Analytics (Lab),CB        ,SA,NA,,13:30-15:00,,,
+SIN ASIGNAR      ,ND,6CV4,Aplicaciones para Comunicaciones en Red (Lab),SDIST     ,SA,LS3,18:30-20:00,,,,
+SIN ASIGNAR      ,ND,6CV4,Computer Graphics (Lab),CC        ,SA,LP1,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,6CV4,Ingeniería de Software (Lab),ISW       ,SA,LS3,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,6CV4,Inteligencia Artificial (Lab),IA        ,SA,LIA1,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,6CV4,Métodos Cuantitativos para la Toma de Desiciones (Lab),PETD      ,SA,LGP1,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,6CV4,Sistemas en Chip (Lab),SDIG      ,SA,LD1,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,7AM1,Administración de Proyectos de TILA (Lab),PETD      ,SA,LS2,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,7AM1,Big Data (Lab),CD        ,SA,LCD1,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,7AM1,Innovación y Emprendimiento Tecnológico (Lab),PETD      ,SA,NA,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,7AM1,Modelos Econométricos (Lab),CD        ,SA,LCD1,,,,13:30-15:00,
+SIN ASIGNAR      ,ND,7AM1,Propiedad Intelectual LCD (Lab),PETD      ,SA,NA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,7BM1,Formulación y Evaluación de Proyectos Informáticos,PETD      ,3210,LGP2,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+SIN ASIGNAR      ,ND,7BM1,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP2,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,7BM1,Interacción Humano Máquina (Lab),IA        ,SA,LIA2,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,7BM1,Propiedad Intelectual (Lab),PETD      ,SA,NA,,,,,12:00-13:30
+SIN ASIGNAR      ,ND,7BM1,Reconocimiento de Voz (Lab),IA        ,SA,LP2,,,,,10:30-12:00
+SIN ASIGNAR      ,ND,7BV1,Big Data (Lab),CD        ,SA,LIA1,,,,,16:30-18:00
+SIN ASIGNAR      ,ND,7BV1,Formulación y Evaluación de Proyectos Informáticos (Lab),PETD      ,SA,LGP2,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,7BV1,Reconocimiento de Voz (Lab),IA        ,SA,LIA1,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,7CM1,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,,,8:30-10:00
+SIN ASIGNAR      ,ND,7CM1,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,LS3,,7:00-8:30,,,
+SIN ASIGNAR      ,ND,7CM1,Natural Language Processing (Lab),IA        ,SA,LIA2,,,12:00-13:30,,
+SIN ASIGNAR      ,ND,7CM1,Selected Topics in Cryptography (Lab),CC        ,SA,LIA2,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,7CM1,Sistemas Distribuidos (Lab),SDIST     ,SA,LS3,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,7CM2,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,7CM2,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,NA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,7CM2,Image Analysis (Lab),IA        ,SA,LIA2,,,13:30-15:00,,
+SIN ASIGNAR      ,ND,7CM2,Sistemas Distribuidos (Lab),SDIST     ,SA,NA,,8:30-10:00,,,
+SIN ASIGNAR      ,ND,7CM2,Virtual Instrumentation (Lab),FSE       ,SA,LE1,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,7CM3,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,7CM3,Bioinformatics (Lab),CC        ,SA,LP3,,12:00-13:30,,,
+SIN ASIGNAR      ,ND,7CM3,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,LS3,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,7CM3,Sistemas Distribuidos (Lab),SDIST     ,SA,LS3,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,7CM3,Web Client and Backend Developmen Frameworks (Lab),ISW       ,SA,LS2,,,,12:00-13:30,
+SIN ASIGNAR      ,ND,7CM4,Administración de Servicios en Red (Lab),SDIST     ,SA,LS4,,,8:30-10:00,,
+SIN ASIGNAR      ,ND,7CM4,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,LS3,,,10:30-12:00,,
+SIN ASIGNAR      ,ND,7CM4,Sistemas Distribuidos (Lab),SDIST     ,SA,LS3,12:00-13:30,,,,
+SIN ASIGNAR      ,ND,7CV1,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,7CV1,Big Data (Lab),CD        ,SA,LP2,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,7CV1,Data Mining (Lab),CD        ,SA,LP3,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,7CV1,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,NA,,15:00-16:30,,,
+SIN ASIGNAR      ,ND,7CV1,Sistemas Distribuidos (Lab),SDIST     ,SA,LS4,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,7CV1,Trabajo Terminal I (Lab),TT        ,SA,NA,,18:30-20:00,18:30-20:00,,
+SIN ASIGNAR      ,ND,7CV2,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,7CV2,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,LS4,,,16:30-18:00,,
+SIN ASIGNAR      ,ND,7CV2,IT Governance (Lab),PETD      ,SA,LS2,,,,15:00-16:30,
+SIN ASIGNAR      ,ND,7CV2,Sistemas Distribuidos (Lab),SDIST     ,SA,LS3,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,7CV2,Virtual and Augmented Reality (Lab),CC        ,SA,LP1,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,7CV3,Administración de Servicios en Red (Lab),SDIST     ,SA,LR,20:00-21:30,,,,
+SIN ASIGNAR      ,ND,7CV3,Desarrollo de Aplicaciones Móviles Nativas (Lab),ISW       ,SA,LS3,,16:30-18:00,,,
+SIN ASIGNAR      ,ND,7CV3,Sistemas Distribuidos (Lab),SDIST     ,SA,LS3,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,7SV1,Aplicaciones con Microcontr para el Automóvil (ISISA) (Lab),SDIG      ,SA,LS4,,,,18:30-20:00,
+SIN ASIGNAR      ,ND,7SV1,Arquitecturas Embebidas Automotrices (ISISA) (Lab),SDIG      ,SA,LS3,,,15:00-16:30,,
+SIN ASIGNAR      ,ND,7SV1,Sistemas Digitales (ISISA) (Lab),SDIG      ,SA,LD2,,13:30-15:00,,13:30-15:00,
+SIN ASIGNAR      ,ND,7SV1,Tópicos Selectos I (ISISA) (Lab),SDIG      ,SA,LS2,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,8AM1,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,,,12:00-13:30,12:00-13:30,
+SIN ASIGNAR      ,ND,8AM1,Gestión Empresarial (Lab),PETD      ,SA,NA,,,,8:30-10:00,
+SIN ASIGNAR      ,ND,8BM1,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,12:00-13:30,,,12:00-13:30,
+SIN ASIGNAR      ,ND,8BM1,Gestión Empresarial (Lab),PETD      ,SA,LGP2,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,8BV1,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,18:30-20:00,,,18:30-20:00,
+SIN ASIGNAR      ,ND,8BV1,Gestión Empresarial (Lab),PETD      ,SA,LGP1,,,18:30-20:00,,
+SIN ASIGNAR      ,ND,8CM1,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,12:00-13:30,,12:00-13:30,,
+SIN ASIGNAR      ,ND,8CM1,Gestión Empresarial (Lab),PETD      ,SA,LGP1,,,,,7:00-8:30
+SIN ASIGNAR      ,ND,8CM1,Liderazgo Personal (Lab),CS        ,SA,NA,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,8CM2,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,,12:00-13:30,,,12:00-13:30
+SIN ASIGNAR      ,ND,8CM2,Gestión Empresarial (Lab),PETD      ,SA,LGP1,8:30-10:00,,,,
+SIN ASIGNAR      ,ND,8CM2,Liderazgo Personal (Lab),CS        ,SA,NA,10:30-12:00,,,,
+SIN ASIGNAR      ,ND,8CM3,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,12:00-13:30,,,12:00-13:30,
+SIN ASIGNAR      ,ND,8CM3,Gestión Empresarial (Lab),PETD      ,SA,LGP1,,,,10:30-12:00,
+SIN ASIGNAR      ,ND,8CM3,Liderazgo Personal (Lab),CS        ,SA,NA,,10:30-12:00,,,
+SIN ASIGNAR      ,ND,8CV1,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,,16:30-18:00,,18:30-20:00,
+SIN ASIGNAR      ,ND,8CV1,Gestión Empresarial (Lab),PETD      ,SA,LGP1,,,,,15:00-16:30
+SIN ASIGNAR      ,ND,8CV1,Liderazgo Personal (Lab),CS        ,SA,NA,16:30-18:00,,,,
+SIN ASIGNAR      ,ND,8CV2,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,,,15:00-16:30,,15:00-16:30
+SIN ASIGNAR      ,ND,8CV2,Gestión Empresarial (Lab),PETD      ,SA,NA,,,,16:30-18:00,
+SIN ASIGNAR      ,ND,8CV2,Liderazgo Personal (Lab),CS        ,SA,NA,13:30-15:00,,,,
+SIN ASIGNAR      ,ND,8CV3,Desarrollo de Habilidades Sociales para la Alta Dirección (Lab),CS        ,SA,NA,18:30-20:00,,,18:30-20:00,
+SIN ASIGNAR      ,ND,8CV3,Gestión Empresarial (Lab),PETD      ,SA,NA,,,,,18:30-20:00
+SIN ASIGNAR      ,ND,8CV3,Liderazgo Personal (Lab),CS        ,SA,NA,,,16:30-16:30,,
+Solorza Guzmán Misael,FB,1AV2,Cálculo,CB        ,3011,LMAT,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Solorza Guzmán Misael,FB,1CV2,Cálculo,CB        ,2203,LMAT,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Sosa Adán Fanny,ISC,4CM11,Gestión Empresarial,PETD      ,2110,NA,8:30-10:00,,8:30-10:00,8:30-10:00 L,
+Sosa Adán Fanny,ISC,8BM1,Gestión Empresarial,PETD      ,3212,LGP2,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Soto Ramos Manuel Alejandro,ISC,4BV1,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,3111,LS2,18:30-20:00,16:30-18:00 L,,18:30-20:00,
+Soto Ramos Manuel Alejandro,ISC,4CV4,Tecnologías para el Desarrollo de Aplicaciones Web,ISW       ,1211,LS2,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Soto Ramos Manuel Alejandro,ISC,7CV1,Administración de Servicios en Red,SDIST     ,1012,LR,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Soto Ramos Manuel Alejandro,ISC,7CV3,Administración de Servicios en Red,SDIST     ,1014,LR,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Suárez Castañón Miguel Santiago,CIC,1AM1,Fundamentos de Programación,CC        ,3010,LP1,7:00-8:30,,,7:00-8:30,8:30-10:00 L
+Suárez Castañón Miguel Santiago,CIC,1BM2,Fundamentos de Programación,CC        ,3009,LP1,,7:00-8:30,7:00-8:30,,7:00-8:30 L
+Suárez Castañón Miguel Santiago,CIC,3MCM1,Seminario III,POSGR     ,2111,NA,,10:30-12:00,10:30-12:00,,
+Suárez Castañón Miguel Santiago,CIC,4MCM1,Seminario IV,POSGR     ,2112,NA,10:30-12:00,8:30-10:00,,10:30-12:00,
+Tecla Parra Roberto,CIC,1CM7,Fundamentos de Programación,CC        ,2002,LP1,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Tecla Parra Roberto,CIC,3BM1,Paradigmas de Programación,CC        ,3108,LP3,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Tecla Parra Roberto,CIC,3CM2,Paradigmas de Programación,CC        ,1204,LP3,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Tecla Parra Roberto,CIC,5CM2,Compiladores,CC        ,1111,LP1,10:30-12:00,8:30-10:00 L,,10:30-12:00,
+Téllez Barrera Juan Carlos,CIC,3CM6,Circuitos Eléctricos (Lab),FSE       ,1209,LE1,7:00-8:30,,,,
+Téllez Barrera Juan Carlos,CIC,3CV5,Circuitos Eléctricos,FSE       ,1205,LE1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Téllez Barrera Juan Carlos,CIC,5CM1,Instrumentación y Control,FSE       ,1214,LE1,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Téllez Barrera Juan Carlos,CIC,5CM2,Instrumentación y Control,FSE       ,1111,LE1,12:00-13:30,,12:00-13:30 L,12:00-13:30,
+Téllez Barrera Juan Carlos,CIC,5CM4,Instrumentación y Control (Lab),FSE       ,SA,LE1,,,,7:00-8:30,
+Téllez Barrera Juan Carlos,CIC,5CM5,Instrumentación y Control (Lab),FSE       ,SA,LE1,,7:00-8:30,,,
+Téllez Reyes Ma. Socorro,FII,1CM2,Comunicación Oral y Escrita,CS        ,2203,LSOC,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Téllez Reyes Ma. Socorro,FII,1CM3,Comunicación Oral y Escrita,CS        ,2204,NA,,10:30-12:00 L,10:30-12:00,,10:30-12:00
+Tenorio Marrón Marco Antonio,ISC,5CM5,Redes de Computadoras,SDIST     ,1114,LR,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Tenorio Marrón Marco Antonio,ISC,7CM4,Administración de Servicios en Red,SDIST     ,2112,LS4,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Testa Nava Alexis,ISC,3CM5,Fundamentos de Diseño Digital,SDIG      ,1207,LD2,,7:00-8:30 L,7:00-8:30,,7:00-8:30
+Testa Nava Alexis,ISC,4CM1,Diseño de Sistemas Digitales,SDIG      ,1210,LD2,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Testa Nava Alexis,ISC,4CM3,Diseño de Sistemas Digitales,SDIG      ,1212,LD2,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Tirado Lule Judith Margarita,FB,2AV2,Álgebra Lineal,CB        ,4011,NA,15:00-16:30,,,15:00-16:30,16:30-18:00 L
+Tirado Lule Judith Margarita,FB,2CV3,Álgebra Lineal,CB        ,2004,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Tirado Lule Judith Margarita,FB,4CV2,Probabilidad y Estadística,CB        ,1209,NA,,18:30-20:00,18:30-20:00,,18:30-20:00
+Tirado Lule Judith Margarita,FB,7CV1,Trabajo Terminal I,TT        ,SA,NA,20:00-21:30,,20:00-21:30,,
+Torres González Enrique,ISC,2CM4,Fundamentos Económicos,PETD      ,2006,LGP1,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Torres González Enrique,ISC,2CM5,Fundamentos Económicos,PETD      ,2007,LGP1,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Torres González Enrique,ISC,8CM2,Trabajo Terminal II (Lab),TT        ,SA,NA,,10:30-12:00,10:30-12:00,,
+Torres León Mónica Rocío,FII,8CV3,Desarrollo de Habilidades Sociales para la Alta Dirección,CS        ,2212,NA,18:30-20:00 L,,,18:30-20:00 L,
+Torres Ruíz Miguel Jesús (inv),CIC,5AM1,Analítica y Visualización de Datos,CD        ,4112,LCD1,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Uriarte Arcia Abril Valeria (inv),CIC,5BV1,Algoritmos Bioinspirados,CC        ,3113,LIA1,13:30-15:00 L,13:30-15:00,,13:30-15:00,
+Vacante 2    Isc,ISC,3CV6,Fundamentos de Diseño Digital,SDIG      ,1206,LD2,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Vacante 2    Isc,ISC,6CM1,Ingeniería de Software,ISW       ,1007,LS3,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Vacante 2    Isc,ISC,6CV3,Ingeniería de Software,ISW       ,1007,LS3,,18:30-20:00 L,18:30-20:00,,18:30-20:00
+Vacante 2    Isc,ISC,6CV4,Ingeniería de Software,ISW       ,1011,LS3,20:00-21:30 L,,20:00-21:30,20:00-21:30,
+Vacante 2 CIC,CIC,3CV6,Paradigmas de Programación,CC        ,1206,LP2,18:30-20:00,16:30-18:00,,18:30-20:00 L,
+Vacante 2 CIC,CIC,5CV3,Compiladores,CC        ,1214,LP2,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Vacante 4 CIC,CIC,6AM1,Temas Selectos de Inteligencia Artificial,IA        ,3209,LP2,10:30-12:00,08:30-10:00 L,,10:30-12:00,
+Vacante 4 CIC,CIC,6BM2,Temas Selectos de Inteligencia Artificial,IA        ,3208,LIA2,,12:00-13:30,13:30-15:00,,12:00-13:30 L
+Vacante 4 CIC,CIC,6BV1,Redes Neuronales y Aprendizaje Profundo,IA        ,4112,LIA1,13:30-15:00,13:30-15:00 L,,13:30-15:00,
+Vacante 4 CIC,CIC,6CM1,Inteligencia Artificial,IA        ,1007,LIA2,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Vacante 5    Isc,ISC,5BM2,Procesamiento de Señales,SDIG      ,4111,LS2,7:00-8:30,,,7:00-8:30 L,8:30-10:00
+Vacante 8    Isc,ISC,6BM1,Aplicaciones de Inteligencia Artificial en Sistemas Embebidos,SDIG      ,4113,LD2,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Vacante 8    Isc,ISC,6CM3,Embedded Systems,SDIG      ,1012,LS4,7:00-8:30 L,,,7:00-8:30,8:30-10:00
+Vacante 9 CIC,CIC,5AV1,Matemáticas Avanzadas para la Ciencia de Datos,CD        ,4108,LIA1,18:30-20:00 L,16:30-18:00,,18:30-20:00,13:30-15:00
+Vacante 9 CIC,CIC,6AV1,Modelado Predictivo,CD        ,4110,LCD1,15:00-16:30,,,15:00-16:30 L,16:30-18:00
+Vasquez Gomez Juan Irving (inv),CIC,6BM2,Redes Neuronales y Aprendizaje Profundo,IA        ,3208,LIA2,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Vázquez González Leonor,FB,1BM1,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,13:30-15:00,,,,
+Vázquez González Leonor,FB,1BM2,Mecánica y Electromagnetismo (Lab),CB        ,SA,LF,,,12:00-13:30,,
+Vázquez González Leonor,FB,1CM1,Matemáticas Discretas,CB        ,2202,LMD,12:00-13:30 L,10:30-12:00,10:30-12:00,,10:30-12:00
+Vázquez González Leonor,FB,5AM1,Matemáticas Avanzadas para la Ciencia de Datos,CD        ,4112,LCD1,10:30-12:00,8:30-10:00 L,,10:30-12:00,12:00-13:30
+Vázquez González Leonor(int),FB,1CM1,Matemáticas Discretas (Lab),CB        ,SA,LMD,12:00-13:30,,,,
+Vázquez Ortiz Mijaíl,CIC,3CV1,Circuitos Eléctricos,FSE       ,2007,LE1,16:30-18:00,,16:30-18:00 L,16:30-18:00,
+Vázquez Ortiz Mijaíl,CIC,4CV3,Electrónica Analógica,FSE       ,1210,LE1,15:00-16:30 L,,,15:00-16:30,16:30-18:00
+Vega García Nayeli,ISC,6CV3,Sistemas en Chip,SDIG      ,1007,LD1,20:00-21:30,,20:00-21:30 L,20:00-21:30,
+Vega García Nayeli,ISC,7SV1,Aplicaciones con Microcontroladores para el Automóvil (ISISA) (Lab),SDIG      ,2110,LS4,,,,18:30-20:00 L,
+Vélez Saldaña Ulises,ISC,3CM11,Software Engineering for Mobile Devices,ISW       ,1014,LS4,,12:00-13:30,13:30-15:00 L,,12:00-13:30
+Vélez Saldaña Ulises,ISC,3CM3,Bases de Datos,ISW       ,1205,LS1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Vélez Saldaña Ulises,ISC,3CM5,Bases de Datos,ISW       ,1207,LS1,12:00-13:30 L,,12:00-13:30,12:00-13:30,
+Vélez Saldaña Ulises,ISC,5CM5,Análisis y Diseño de Sistemas,ISW       ,1114,LS1,,10:30-12:00,10:30-12:00,,10:30-12:00 L
+Vera Hernández Gumersindo,FII,2BM1,Ingeniería Ética y Sociedad,CS        ,4008,NA,7:00-8:30,,,7:00-8:30,8:30-10:00
+Vera Hernández Gumersindo,FII,2BM2,Ingeniería Ética y Sociedad,CS        ,4009,NA,,7:00-8:30,7:00-8:30,,7:00-8:30
+Villegas Navarrete Sonia,ISC,2CV1,Fundamentos Económicos,PETD      ,2002,LR,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Villegas Navarrete Sonia,ISC,2CV3,Fundamentos Económicos,PETD      ,2004,LGP2,20:00-21:30,,20:00-21:30 L,20:00-21:30,
+Villegas Navarrete Sonia,ISC,8BV1,Gestión Empresarial,PETD      ,4011,LGP1,,18:30-20:00,18:30-20:00 L,,18:30-20:00
+Viveros Vela Karina,FB,1CM1,Cálculo,CB        ,2202,LMAT,,7:00-8:30,7:00-8:30 L,,7:00-8:30
+Viveros Vela Karina,FB,1CM2,Cálculo,CB        ,2203,LMAT,8:30-10:00,,8:30-10:00 L,8:30-10:00,
+Viveros Vela Karina,FB,2CM3,Cálculo Aplicado,CB        ,2005,LMA,,10:30-12:00,10:30-12:00 L,,10:30-12:00
+Viveros Vela Karina,FB,2CM4,Cálculo Aplicado,CB        ,2006,LMA,12:00-13:30,,12:00-13:30,12:00-13:30 L,
+Viveros Vela Karina,FB,7BM1,Trabajo Terminal I,TT        ,SA,NA,,12:00-13:30,,,12:00-13:30
+Winfield Reyes Ana María,FII,1CV1,Comunicación Oral y Escrita,CS        ,2202,NA,16:30-18:00 L,,16:30-18:00,16:30-18:00,
+Winfield Reyes Ana María,FII,2BV2,Ingeniería Ética y Sociedad,CS        ,4009,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+Winfield Reyes Ana María,FII,6BV1,Metodología de la Investigación y Divulgación Científica,CS        ,4109,NA,18:30-20:00 L,16:30-18:00,,18:30-20:00,
+Winfield Reyes Ana María,FII,7CV2,Trabajo Terminal I (Lab),TT        ,SA,NA,,18:30-20:00,18:30-20:00,,
+Zagal Flores Roberto Eswart,ISC,2MCM1,Tópicos en Inteligencia Artificial Actual,POSGR     ,2111,NA,13:30-15:00,13:30-15:00,,13:30-15:00,
+Zagal Flores Roberto Eswart,ISC,7AM1,Big Data,CD        ,3211,LCD1,10:30-12:00 L,8:30-10:00,,10:30-12:00,
+Zárate Cárdenas Alejandro,FB,1AV1,Cálculo,CB        ,3010,LMAT,16:30-18:00,,16:30-18:00,16:30-18:00 L,
+Zárate Cárdenas Alejandro,FB,1BV2,Mecánica y Electromagnetismo,CB        ,3009,LF,15:00-16:30 L,13:30-15:00,,15:00-16:30,16:30-18:00
+Zárate Cárdenas Alejandro,FB,2CV3,Mecánica y Electromagnetismo,CB        ,2004,LF,,15:00-16:30,15:00-16:30 L,13:30-15:00,15:00-16:30
+Zárate Cárdenas Alejandro,FB,3BV2,Ecuaciones Diferenciales,CB        ,3109,NA,18:30-20:00,16:30-18:00,,18:30-20:00,
+Zárate Cárdenas Alejandro,FB,3CV3,Ecuaciones Diferenciales,CB        ,1203,NA,20:00-21:30,,20:00-21:30,20:00-21:30,
+Zárate Cárdenas Alejandro,FB,4BM1,Matemáticas Avanzadas para la Ingeniería,CB        ,3112,NA,,10:30-12:00,10:30-12:00,,10:30-12:00
+Zárate Cárdenas Alejandro,FB,4BV1,Matemáticas Avanzadas para la Ingeniería,CB        ,3113,NA,,12:00-13:30,13:30-15:00,,13:30-15:00
