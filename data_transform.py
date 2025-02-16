@@ -4,18 +4,33 @@ import re
 def clean_professor_name(name):
     # Eliminar caracteres especiales y títulos innecesarios
     name = re.sub(r'\(.*?\)|-|int|Mtro', '', name, flags=re.IGNORECASE).strip()
-    # Separar nombre y apellidos correctamente si están en formato Apellido, Nombre
-    parts = name.split()
-    if "," in name:
-        last_name, first_name = name.split(",")
-        name = first_name.strip() + " " + last_name.strip()
-    return name.title()
+    
+    # Dividir el nombre en palabras
+    words = name.split()
+    
+    # Detectar estructuras comunes de nombres y apellidos
+    if len(words) > 3:
+        if words[0].lower() in ['de', 'del', 'de la', 'de los']:
+            last_name = " ".join(words[:3])  # Tomar los primeros tres como apellido
+            first_name = " ".join(words[3:])
+        elif words[1].lower() in ['de', 'del', 'de la', 'de los']:
+            last_name = " ".join(words[:4])  # Tomar los primeros cuatro como apellido
+            first_name = " ".join(words[4:])
+        else:
+            last_name = " ".join(words[:-2])  # Tomar los primeros como apellido
+            first_name = " ".join(words[-2:])
+    else:
+        first_name = words[-1]  # Última palabra como nombre
+        last_name = " ".join(words[:-1])  # Resto como apellido
+    
+    formatted_name = f"{first_name} {last_name}".upper()
+    return formatted_name
 
 def transform_professor_schedule(df):
     # Seleccionar solo las columnas relevantes y hacer una copia para evitar el warning
     df = df[['profesor', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes']].copy()
     
-    # Limpiar los nombres de los profesores
+    # Limpiar y reordenar los nombres de los profesores
     df.loc[:, 'profesor'] = df['profesor'].apply(clean_professor_name)
     
     # Eliminar la 'L' que aparece en algunos horarios
@@ -67,13 +82,13 @@ def transform_professor_schedule(df):
                 schedule_types = {"7-2": (7, 14), "9-3": (9, 15), "2-9": (14, 21), "3-10": (15, 22)}
                 best_match = min(schedule_types.items(), key=lambda x: abs(final_start_hour - x[1][0]) + abs(final_end_hour - x[1][1]))[0]
             else:
-                best_match = "Sin horario"
+                best_match = "SIN HORARIO"
         else:
-            best_match = "Sin horario"
+            best_match = "SIN HORARIO"
         
         processed_data.append([prof, daily_schedule['lunes'], daily_schedule['martes'], daily_schedule['miércoles'], 
                                daily_schedule['jueves'], daily_schedule['viernes'], best_match])
     
     # Crear DataFrame final
-    final_df = pd.DataFrame(processed_data, columns=['Profesor', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Clasificación Horaria'])
+    final_df = pd.DataFrame(processed_data, columns=['PROFESOR', 'LUNES', 'MARTES', 'MIÉRCOLES', 'JUEVES', 'VIERNES', 'CLASIFICACIÓN HORARIA'])
     return final_df
