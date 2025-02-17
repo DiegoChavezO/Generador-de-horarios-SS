@@ -25,7 +25,6 @@ def clean_professor_name(name):
     
     formatted_name = f"{first_name} {last_name}".upper()
     return formatted_name
-
 def transform_professor_schedule(df):
     # Seleccionar solo las columnas relevantes y hacer una copia para evitar el warning
     df = df[['profesor', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes']].copy()
@@ -92,3 +91,16 @@ def transform_professor_schedule(df):
     # Crear DataFrame final
     final_df = pd.DataFrame(processed_data, columns=['PROFESOR', 'LUNES', 'MARTES', 'MIÉRCOLES', 'JUEVES', 'VIERNES', 'CLASIFICACIÓN HORARIA'])
     return final_df
+
+def apply_classification_to_schedule(df):
+    # Normalizar nombres de columnas a minúsculas
+    df.columns = df.columns.str.lower()
+    
+    if 'clasificación horaria' not in df.columns:
+        df['clasificación horaria'] = 'SIN HORARIO'  # Asegurar que la columna exista
+    
+    for index, row in df.iterrows():
+        for day in ['lunes', 'martes', 'miércoles', 'jueves', 'viernes']:
+            if day in df.columns and pd.notna(row[day]):  # Solo actualizar si existe la columna y no es None
+                df.at[index, day] = df.at[index, 'clasificación horaria']
+    return df
