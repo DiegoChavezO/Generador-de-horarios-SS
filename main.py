@@ -14,6 +14,9 @@ class ScheduleApp(QMainWindow):
 
         self.tt_days_df = pd.DataFrame(columns=["Inicio", "Fin", "8-10", "10-12", "12-2", "2-4", "4-6", "6-8", "Total TT"])
         self.generated_schedule_df = None
+ 
+        self.professors_df = pd.DataFrame(columns=["PROFESOR", "LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "CLASIFICACIÓN"]) #QUIEN SABE Y JALE
+
 
         self.initUI()
     
@@ -60,26 +63,46 @@ class ScheduleApp(QMainWindow):
         self.upload_tab.setLayout(layout)
     
     def initScheduleTab(self):
+        #self.schedule_tab = QWidget()
         layout = QVBoxLayout()
         
         self.professors_table = QTableWidget()
         layout.addWidget(self.professors_table)
         
+            # 🔍 Barra de búsqueda
+        self.search_bar = QLineEdit()
+        self.search_bar.setPlaceholderText("Buscar profesor...")
+        self.search_bar.textChanged.connect(self.filter_professor_table)  # Filtrado en tiempo real
+
+        # 🔘 Botón "Buscar"
+        self.search_button = QPushButton("🔍 Buscar")
+        self.search_button.clicked.connect(self.filter_professor_table)  
+
+        # 📌 Layout para barra + botón
+        search_layout = QHBoxLayout()
+        search_layout.addWidget(QLabel("Buscar:"))
+        search_layout.addWidget(self.search_bar)
+        search_layout.addWidget(self.search_button)
+
+        layout.addLayout(search_layout)
+
+
         # Formulario para agregar profesor
         form_layout = QHBoxLayout()
         self.name_input = QLineEdit()
         self.name_input.setPlaceholderText("Nombre del Profesor")
         form_layout.addWidget(self.name_input)
-
+        
+        self.schedule_combo = QComboBox()
+        self.schedule_combo.addItems(["7-2", "9-3", "2-9", "3-10", "SIN HORARIO"])
+        form_layout.addWidget(self.schedule_combo)
+        
         #actualizar el profesor
         self.update_professors_button = QPushButton("Actualizar Profesores")
         self.update_professors_button.clicked.connect(self.update_professors_data)
         layout.addWidget(self.update_professors_button)
         
-        
-        self.schedule_combo = QComboBox()
-        self.schedule_combo.addItems(["7-2", "9-3", "2-9", "3-10", "SIN HORARIO"])
-        form_layout.addWidget(self.schedule_combo)
+
         
         #boton para añadir el profe
         self.add_professor_button = QPushButton("Añadir Profesor")
@@ -95,8 +118,10 @@ class ScheduleApp(QMainWindow):
         self.apply_schedule_button.clicked.connect(self.apply_classification_to_schedule)
         layout.addWidget(self.apply_schedule_button)
         
-        
+
+        #final tab
         self.schedule_tab.setLayout(layout)
+        self.display_professor_schedule()
 
     def initTTTab(self):
         layout = QVBoxLayout()
@@ -210,7 +235,7 @@ class ScheduleApp(QMainWindow):
             self.professors_df.drop(index=selected_row, inplace=True)
             self.professors_df.reset_index(drop=True, inplace=True)
             self.display_professor_schedule()
-    
+    '''
     def display_professor_schedule(self):
         self.professors_table.setRowCount(self.professors_df.shape[0])
         self.professors_table.setColumnCount(self.professors_df.shape[1])
@@ -221,13 +246,49 @@ class ScheduleApp(QMainWindow):
                 item_text = str(self.professors_df.iat[row, col])
                 self.professors_table.setItem(row, col, QTableWidgetItem(item_text))
                 #self.professors_table.setItem(row, col, QTableWidgetItem(str(self.professors_df.iat[row, col])))
-
+    '''
     #agregado despuess
     def apply_classification_to_schedule(self):
         self.professors_df = data_transform.apply_classification_to_schedule(self.professors_df)
         self.display_professor_schedule()
     
-    def display_professor_schedule(self):
+    def filter_professor_table(self):
+        """ Filtra la tabla de profesores según el texto ingresado en la barra de búsqueda. """
+        search_text = self.search_bar.text().strip().lower()  # Obtener texto en minúsculas
+
+        if search_text:
+            filtered_df = self.professors_df[self.professors_df["PROFESOR"].str.lower().str.contains(search_text, na=False)]
+        else:
+            filtered_df = self.professors_df  # Si está vacío, mostrar todo
+
+        # Actualizar la tabla con los resultados filtrados
+        self.display_professor_schedule(filtered_df)
+
+    def display_professor_schedule(self, df=None):
+            """ Muestra la tabla de profesores, opcionalmente con un DataFrame filtrado. """
+    
+            if not hasattr(self, 'professors_df') or self.professors_df.empty:  # Verificar si hay datos
+                self.professors_df = pd.DataFrame(columns=["PROFESOR", "LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "CLASIFICACIÓN"])
+
+            if df is None:
+                df = self.professors_df  # Si no se pasa un DF, usar el original
+
+            self.professors_table.setRowCount(df.shape[0])
+            self.professors_table.setColumnCount(df.shape[1])
+            self.professors_table.setHorizontalHeaderLabels(df.columns)
+
+            for row in range(df.shape[0]):
+                for col in range(df.shape[1]):
+                    item_text = str(df.iat[row, col])
+                    self.professors_table.setItem(row, col, QTableWidgetItem(item_text))
+            
+            '''
+        if not hasattr(self, 'professors_df'):  # Evitar error si aún no hay datos cargados
+            self.professors_df = pd.DataFrame(columns=["PROFESOR", "LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "CLASIFICACIÓN"])
+    
+        if df is None:
+            df = self.professors_df  # Si no se pasa un DF, usar el original
+        
         self.professors_table.setRowCount(self.professors_df.shape[0])
         self.professors_table.setColumnCount(self.professors_df.shape[1])
         self.professors_table.setHorizontalHeaderLabels(self.professors_df.columns)
@@ -235,7 +296,7 @@ class ScheduleApp(QMainWindow):
         for row in range(self.professors_df.shape[0]):
             for col in range(self.professors_df.shape[1]):
                 self.professors_table.setItem(row, col, QTableWidgetItem(str(self.professors_df.iat[row, col])))
-
+        '''
 #agregamos pestaña para horarios de TT tipo funcionaidad
     def load_tt_data(self):
         file_path, _ = QFileDialog.getOpenFileName(self, "Seleccionar archivo de trabajos terminales", "", "Excel Files (*.xlsx *.xls)")
